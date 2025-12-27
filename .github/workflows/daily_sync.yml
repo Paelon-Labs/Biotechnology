@@ -29,9 +29,10 @@ jobs:
           python -m playwright install --with-deps firefox
 
       - name: Run Scraper and Refine Data
+        # We use 'working-directory' to tell GitHub where scraper.py lives
+        working-directory: ./Daily Markets
         run: python scraper.py
-        # This assumes scraper.py is in your repository root. 
-        # If it is inside a folder, use: python "Daily Markets/scraper.py"
+
 
       - name: Commit and Push Changes
         run: |
