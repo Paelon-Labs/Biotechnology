@@ -52,8 +52,8 @@ def process_biotech_csv(input_file):
         if not industry_col: return None
 
         df_filtered = df[df[industry_col].isin(target_industries)].copy()
-        if country_col:
-            df_filtered = df_filtered[df_filtered[country_col] == 'United States'].copy()
+        #if country_col:
+         #   df_filtered = df_filtered[df_filtered[country_col] == 'United States'].copy()
 
         # 3. Market Cap Conversion
         market_cap_col = next((c for c in df.columns if 'market_cap' in c.lower() or 'market cap' in c.lower()), None)
