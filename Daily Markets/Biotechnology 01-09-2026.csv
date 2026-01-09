@@ -1,0 +1,735 @@
+Symbol,Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+LLY,Eli Lilly and Company Common Stock,$1063.56,-21.63,-1.993%,1005472,United States,,2555771,Health Care,Biotechnology: Pharmaceutical Preparations
+JNJ,Johnson & Johnson Common Stock,$204.39,-1.36,-0.661%,492435,United States,,6152884,Health Care,Biotechnology: Pharmaceutical Preparations
+ABBV,AbbVie Inc. Common Stock,$220.08,-4.05,-1.807%,388966,United States,2012.0,6636665,Health Care,Biotechnology: Pharmaceutical Preparations
+AZN,AstraZeneca PLC American Depositary Shares,$94.65,0.64,0.681%,293552,United Kingdom,,6069255,Health Care,Biotechnology: Pharmaceutical Preparations
+NVS,Novartis AG Common Stock,$141.54,0.08,0.057%,279554,Switzerland,,1083121,Health Care,Biotechnology: Pharmaceutical Preparations
+MRK,Merck & Company Inc. Common Stock (new),$110.53,-0.46,-0.414%,274337,United States,,11038996,Health Care,Biotechnology: Pharmaceutical Preparations
+NVO,Novo Nordisk A/S Common Stock,$58.81,1.47,2.564%,262586,Denmark,,28959591,Health Care,Biotechnology: Pharmaceutical Preparations
+ABT,Abbott Laboratories Common Stock,$125.92,-0.26,-0.206%,218958,United States,,4317601,Health Care,Biotechnology: Pharmaceutical Preparations
+AMGN,Amgen Inc. Common Stock,$326.10,-4.01,-1.215%,175598,United States,1983.0,2118252,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GILD,Gilead Sciences Inc. Common Stock,$121.10,0.43,0.356%,150246,United States,1992.0,6584827,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PFE,Pfizer Inc. Common Stock,$25.48,0.19,0.751%,144871,United States,,34165124,Health Care,Biotechnology: Pharmaceutical Preparations
+SNY,Sanofi ADS,$49.03,0.9,1.87%,120393,France,,7029329,Health Care,Biotechnology: Pharmaceutical Preparations
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,$463.86,-5.82,-1.239%,117690,United States,1991.0,1693039,Health Care,Biotechnology: Pharmaceutical Preparations
+BMY,Bristol-Myers Squibb Company Common Stock,$55.86,-0.04,-0.072%,113717,United States,,9477171,Health Care,Biotechnology: Pharmaceutical Preparations
+GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),$50.39,0.17,0.339%,102765,United Kingdom,2022.0,3925658,Health Care,Biotechnology: Pharmaceutical Preparations
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,$796.55,-4.46,-0.557%,83716,United States,1991.0,711539,Health Care,Biotechnology: Pharmaceutical Preparations
+IDXX,IDEXX Laboratories Inc. Common Stock,$713.35,0.96,0.135%,56961,United States,1991.0,511406,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+ZTS,Zoetis Inc. Class A Common Stock,$127.17,0.32,0.252%,56042,United States,2013.0,2958561,Health Care,Biotechnology: Pharmaceutical Preparations
+ALNY,Alnylam Pharmaceuticals Inc. Common Stock,$398.29,-1.11,-0.278%,52619,United States,2004.0,1425713,Health Care,Biotechnology: Pharmaceutical Preparations
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),$16.31,-0.06,-0.367%,51332,Japan,2018.0,3212410,Health Care,Biotechnology: Pharmaceutical Preparations
+ARGX,argenx SE American Depositary Shares,$788.49,-7.08,-0.89%,48090,Netherlands,2017.0,462282,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+INSM,Insmed Incorporated Common Stock,$175.97,5.7,3.348%,37529,United States,,5432243,Health Care,Biotechnology: Pharmaceutical Preparations
+ONC,BeOne Medicines Ltd. American Depositary Shares,$337.89,17.52,5.469%,37390,Cayman Islands,2016.0,666560,Health Care,Biotechnology: Pharmaceutical Preparations
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,$32.01,-0.5,-1.538%,36724,Israel,,9568237,Health Care,Biotechnology: Pharmaceutical Preparations
+BIIB,Biogen Inc. Common Stock,$187.62,1.62,0.871%,27524,United States,,1396742,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BNTX,BioNTech SE American Depositary Share,$99.85,1.0,1.012%,23961,Germany,2019.0,728932,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,$40.17,-0.09,-0.224%,23187,United States,2020.0,2397981,Health Care,Biotechnology: Pharmaceutical Preparations
+RVMD,Revolution Medicines Inc. Common Stock,$118.64,11.25,10.476%,22935,United States,2020.0,20660775,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GMAB,Genmab A/S ADS,$34.26,0.63,1.873%,22675,Denmark,2019.0,1521847,Health Care,Biotechnology: Pharmaceutical Preparations
+UTHR,United Therapeutics Corporation Common Stock,$483.23,-7.6,-1.548%,20806,United States,1999.0,410501,Health Care,Biotechnology: Pharmaceutical Preparations
+ROIV,Roivant Sciences Ltd. Common Shares,$21.98,0.2,0.918%,15286,United Kingdom,,5260135,Health Care,Biotechnology: Pharmaceutical Preparations
+BBIO,BridgeBio Pharma Inc. Common Stock,$77.25,3.43,4.646%,14886,United States,2019.0,2889379,Health Care,Biotechnology: Pharmaceutical Preparations
+VTRS,Viatris Inc. Common Stock,$12.76,0.16,1.27%,14696,United States,,10167003,Health Care,Biotechnology: Pharmaceutical Preparations
+SMMT,Summit Therapeutics Inc. Common Stock ,$19.68,0.85,4.514%,14650,United States,2015.0,2824438,Health Care,Biotechnology: Pharmaceutical Preparations
+NBIX,Neurocrine Biosciences Inc. Common Stock,$135.79,0.22,0.162%,13539,United States,1996.0,1398791,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MRNA,Moderna Inc. Common Stock,$34.30,0.44,1.299%,13400,United States,2018.0,7546234,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IONS,Ionis Pharmaceuticals Inc. Common Stock,$80.30,-1.24,-1.521%,13006,United States,,2668615,Health Care,Biotechnology: Pharmaceutical Preparations
+ASND,Ascendis Pharma A/S American Depositary Shares,$202.99,-5.76,-2.759%,12319,Denmark,2015.0,893850,Health Care,Biotechnology: Pharmaceutical Preparations
+EXEL,Exelixis Inc. Common Stock,$44.04,-0.11,-0.249%,11807,United States,2000.0,2830766,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MDGL,Madrigal Pharmaceuticals Inc. Common Stock,$514.06,-42.16,-7.58%,11675,United States,2007.0,700512,Health Care,Biotechnology: Pharmaceutical Preparations
+ELAN,Elanco Animal Health Incorporated Common Stock,$23.47,0.23,0.99%,11661,United States,2018.0,2864708,Health Care,Biotechnology: Pharmaceutical Preparations
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,$58.95,-1.4,-2.32%,11325,United States,1999.0,2410324,Health Care,Biotechnology: Pharmaceutical Preparations
+RDY,Dr. Reddy's Laboratories Ltd Common Stock,$13.40,0.05,0.375%,11181,India,,1343558,Health Care,Biotechnology: Pharmaceutical Preparations
+RNA,Avidity Biosciences Inc. Common Stock,$72.37,0.0,0.00%,10904,United States,2020.0,1122166,Health Care,Biotechnology: Pharmaceutical Preparations
+TECH,Bio-Techne Corp Common Stock,$65.70,1.12,1.734%,10236,United States,,2466613,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+QGEN,Qiagen N.V. Common Shares,$48.29,-0.16,-0.33%,9947,Netherlands,2026.0,1276855,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+JAZZ,Jazz Pharmaceuticals plc Common Stock (Ireland),$161.13,0.88,0.549%,9791,Ireland,2007.0,1222635,Health Care,Biotechnology: Pharmaceutical Preparations
+RGEN,Repligen Corporation Common Stock,$166.82,0.4,0.24%,9390,United States,1986.0,396120,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ABVX,Abivax SA American Depositary Shares,$114.40,-1.09,-0.944%,8889,France,2023.0,1705478,Health Care,Biotechnology: Pharmaceutical Preparations
+ARWR,Arrowhead Pharmaceuticals Inc. Common Stock,$64.56,-0.44,-0.677%,8760,United States,,2351038,Health Care,Biotechnology: Pharmaceutical Preparations
+AXSM,Axsome Therapeutics Inc. Common Stock,$169.38,1.83,1.092%,8538,United States,2015.0,792751,Health Care,Biotechnology: Pharmaceutical Preparations
+HALO,Halozyme Therapeutics Inc. Common Stock,$72.47,0.34,0.471%,8522,United States,,1915597,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CANF,Can-Fite Biopharma Ltd American Depositary Shares each representing two (2) Ordinary Shares,$4.14,-0.22,-5.046%,8273,Israel,,40121,Health Care,Biotechnology: Pharmaceutical Preparations
+CYTK,Cytokinetics Incorporated Common Stock,$62.51,-0.81,-1.279%,7642,United States,2004.0,2482396,Health Care,Biotechnology: Pharmaceutical Preparations
+NUVL,Nuvalent Inc. Class A Common Stock,$105.05,2.38,2.318%,7637,United States,2021.0,498673,Health Care,Biotechnology: Pharmaceutical Preparations
+KRYS,Krystal Biotech Inc. Common Stock,$261.41,12.5,5.022%,7580,United States,2017.0,349859,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PRAX,Praxis Precision Medicines Inc. Common Stock,$288.45,-5.93,-2.014%,7267,United States,2020.0,679096,Health Care,Biotechnology: Pharmaceutical Preparations
+RYTM,Rhythm Pharmaceuticals Inc. Common Stock,$101.02,3.56,3.653%,6741,United States,2017.0,812024,Health Care,Biotechnology: Pharmaceutical Preparations
+GRFS,Grifols S.A. American Depositary Shares,$9.37,-0.12,-1.264%,6442,Spain,,396843,Health Care,Biotechnology: Pharmaceutical Preparations
+PTCT,PTC Therapeutics Inc. Common Stock,$77.53,0.68,0.885%,6224,United States,2013.0,1567177,Health Care,Biotechnology: Pharmaceutical Preparations
+PCVX,Vaxcyte Inc. Common Stock,$46.05,0.73,1.611%,6028,United States,2020.0,795258,Health Care,Biotechnology: Pharmaceutical Preparations
+BLTE,Belite Bio Inc American Depositary Shares,$158.36,-5.645,-3.442%,5940,United States,2022.0,350563,Health Care,Biotechnology: Pharmaceutical Preparations
+KYMR,Kymera Therapeutics Inc. Common Stock,$74.77,-0.21,-0.28%,5887,United States,2020.0,594804,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+APGE,Apogee Therapeutics Inc. Common Stock,$77.99,0.51,0.658%,5328,United States,2023.0,818317,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IMVT,Immunovant Inc. Common Stock,$26.03,-0.28,-1.064%,5275,United States,2019.0,1589659,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CRSP,CRISPR Therapeutics AG Common Shares,$53.84,-2.56,-4.539%,5130,Switzerland,2016.0,2095580,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NNNN,Anbio Biotechnology Class A Ordinary Shares,$34.99,2.51,7.728%,5034,Germany,2025.0,26246,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+CRNX,Crinetics Pharmaceuticals Inc. Common Stock,$53.25,0.01,0.019%,5034,United States,2018.0,2227604,Health Care,Biotechnology: Pharmaceutical Preparations
+COGT,Cogent Biosciences Inc. Common Stock,$35.35,-0.22,-0.618%,5033,United States,2018.0,2245681,Health Care,Biotechnology: Pharmaceutical Preparations
+PTGX,Protagonist Therapeutics Inc. Common Stock,$80.22,0.02,0.025%,5015,United States,2016.0,983312,Health Care,Biotechnology: Pharmaceutical Preparations
+ALKS,Alkermes plc Ordinary Shares,$29.66,0.06,0.203%,4897,Ireland,1991.0,2819711,Health Care,Biotechnology: Pharmaceutical Preparations
+GPCR,Structure Therapeutics Inc. American Depositary Shares,$68.61,1.63,2.434%,4743,United States,2023.0,1115543,Health Care,Biotechnology: Pharmaceutical Preparations
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,$26.78,-0.13,-0.483%,4530,United States,1985.0,756438,Health Care,Biotechnology: Pharmaceutical Preparations
+TGTX,TG Therapeutics Inc. Common Stock,$28.47,-2.03,-6.656%,4519,United States,,3242206,Health Care,Biotechnology: Pharmaceutical Preparations
+LNTH,Lantheus Holdings Inc. Common Stock,$67.56,-0.29,-0.427%,4480,United States,2015.0,901931,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+MIRM,Mirum Pharmaceuticals Inc. Common Stock,$86.57,4.97,6.091%,4449,United States,2019.0,891797,Health Care,Biotechnology: Pharmaceutical Preparations
+INDV,Indivior PLC Ordinary Shares,$35.44,-0.07,-0.197%,4421,United Kingdom,,2553104,Health Care,Biotechnology: Pharmaceutical Preparations
+FOLD,Amicus Therapeutics Inc. Common Stock,$14.28,0.0,0.00%,4405,United States,2007.0,10549684,Health Care,Biotechnology: Pharmaceutical Preparations
+CGON,CG Oncology Inc. Common stock,$54.20,12.27,29.263%,4372,United States,2024.0,6988271,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+LEGN,Legend Biotech Corporation American Depositary Shares,$23.60,0.57,2.475%,4334,United States,2020.0,4363178,Health Care,Biotechnology: Pharmaceutical Preparations
+SRRK,Scholar Rock Holding Corporation Common Stock,$42.18,0.51,1.224%,4302,United States,2018.0,944533,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ADMA,ADMA Biologics Inc Common Stock,$17.95,-0.12,-0.664%,4272,United States,,2175941,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,$12.96,-0.24,-1.818%,4074,United States,,1511624,Health Care,Biotechnology: Pharmaceutical Preparations
+LGND,Ligand Pharmaceuticals Incorporated Common Stock,$206.65,6.585,3.291%,4067,United States,,188822,Health Care,Biotechnology: Pharmaceutical Preparations
+CORT,Corcept Therapeutics Incorporated Common Stock,$37.50,0.97,2.655%,3944,United States,2004.0,1612521,Health Care,Biotechnology: Pharmaceutical Preparations
+NAMS,NewAmsterdam Pharma Company N.V. Ordinary Shares,$34.37,-1.43,-3.994%,3897,Netherlands,,972293,Health Care,Biotechnology: Pharmaceutical Preparations
+ACLX,Arcellx Inc. Common Stock,$66.27,1.96,3.048%,3831,United States,2022.0,1022677,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TERN,Terns Pharmaceuticals Inc. Common Stock,$35.48,-2.29,-6.063%,3681,United States,2021.0,3501813,Health Care,Biotechnology: Pharmaceutical Preparations
+VKTX,Viking Therapeutics Inc. Common Stock,$31.99,0.34,1.074%,3616,United States,2015.0,2867942,Health Care,Biotechnology: Pharmaceutical Preparations
+ARQT,Arcutis Biotherapeutics Inc. Common Stock,$28.22,-1.66,-5.556%,3456,United States,2020.0,1745603,Health Care,Biotechnology: Pharmaceutical Preparations
+APLS,Apellis Pharmaceuticals Inc. Common Stock,$27.30,1.04,3.96%,3454,United States,2017.0,4009338,Health Care,Biotechnology: Pharmaceutical Preparations
+VERA,Vera Therapeutics Inc. Class A Common Stock,$48.71,1.02,2.139%,3411,United States,2021.0,810424,Health Care,Biotechnology: Pharmaceutical Preparations
+IDYA,IDEAYA Biosciences Inc. Common Stock,$37.38,0.95,2.608%,3276,United States,2019.0,1271429,Health Care,Biotechnology: Pharmaceutical Preparations
+TARS,Tarsus Pharmaceuticals Inc. Common Stock,$76.87,-1.34,-1.713%,3263,United States,2020.0,451851,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XENE,Xenon Pharmaceuticals Inc. Common Shares,$42.15,0.93,2.256%,3257,Canada,2014.0,2055706,Health Care,Biotechnology: Pharmaceutical Preparations
+KNSA,Kiniksa Pharmaceuticals International plc Class A Ordinary Shares,$42.67,0.94,2.253%,3234,United States,2018.0,482201,Health Care,Biotechnology: Pharmaceutical Preparations
+CNTA,Centessa Pharmaceuticals plc American Depositary Shares,$22.42,0.37,1.678%,3214,United Kingdom,2021.0,1145196,Health Care,Biotechnology: Pharmaceutical Preparations
+LQDA,Liquidia Corporation Common Stock,$35.86,4.1,12.909%,3119,United States,2018.0,7982618,Health Care,Biotechnology: Pharmaceutical Preparations
+TVTX,Travere Therapeutics Inc. Common Stock,$34.58,-1.02,-2.865%,3093,United States,,2877886,Health Care,Biotechnology: Pharmaceutical Preparations
+PBH,Prestige Consumer Healthcare Inc. Common Stock,$64.17,0.21,0.328%,3085,United States,2005.0,255143,Health Care,Biotechnology: Pharmaceutical Preparations
+IRON,Disc Medicine Inc. Common Stock,$78.14,-1.15,-1.45%,2949,United States,,245196,Health Care,Biotechnology: Pharmaceutical Preparations
+SUPN,Supernus Pharmaceuticals Inc. Common Stock,$51.11,-0.06,-0.117%,2930,United States,2012.0,1220251,Health Care,Biotechnology: Pharmaceutical Preparations
+DYN,Dyne Therapeutics Inc. Common Stock,$17.77,-0.49,-2.683%,2871,United States,2020.0,1321446,Health Care,Biotechnology: Pharmaceutical Preparations
+BEAM,Beam Therapeutics Inc. Common Stock,$27.55,-0.45,-1.607%,2795,United States,2020.0,1167832,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CPRX,Catalyst Pharmaceuticals Inc. Common Stock,$22.72,0.12,0.531%,2792,United States,2006.0,1370593,Health Care,Biotechnology: Pharmaceutical Preparations
+NUVB,Nuvation Bio Inc. Class A Common Stock,$8.04,-0.41,-4.852%,2756,United States,2020.0,5772751,Health Care,Biotechnology: Pharmaceutical Preparations
+BHC,Bausch Health Companies Inc. Common Stock,$7.41,-0.36,-4.633%,2745,Canada,,1682784,Health Care,Biotechnology: Pharmaceutical Preparations
+NAMSW,NewAmsterdam Pharma Company N.V. Warrant,$23.95,0.85,3.68%,2715,Netherlands,,440,Health Care,Biotechnology: Pharmaceutical Preparations
+MESO,Mesoblast Limited American Depositary Shares,$20.96,1.09,5.486%,2705,Australia,2015.0,311974,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+DNLI,Denali Therapeutics Inc. Common Stock,$17.08,0.01,0.059%,2660,United States,2017.0,963094,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MLYS,Mineralys Therapeutics Inc. Common Stock,$33.37,0.24,0.724%,2640,United States,2023.0,1361174,Health Care,Biotechnology: Pharmaceutical Preparations
+EWTX,Edgewise Therapeutics Inc. Common Stock,$24.90,-0.07,-0.28%,2636,United States,2021.0,841521,Health Care,Biotechnology: Pharmaceutical Preparations
+HCM,HUTCHMED (China) Limited American Depositary Shares,$14.72,-0.05,-0.339%,2567,Hong Kong,2016.0,56126,Health Care,Biotechnology: Pharmaceutical Preparations
+TLX,Telix Pharmaceuticals Limited American Depositary Shares,$7.56,-0.07,-0.917%,2530,Australia,,99037,Health Care,Biotechnology: Pharmaceutical Preparations
+AAPG,Ascentage Pharma Group International American Depository Shares,$28.78,0.89,3.191%,2505,China,2025.0,1439,Health Care,Biotechnology: Pharmaceutical Preparations
+SRPT,Sarepta Therapeutics Inc. Common Stock (DE),$23.83,0.68,2.937%,2497,United States,,2034390,Health Care,Biotechnology: Pharmaceutical Preparations
+WVE,Wave Life Sciences Ltd. Ordinary Shares,$13.84,-0.99,-6.676%,2490,Singapore,2015.0,3726336,Health Care,Biotechnology: Pharmaceutical Preparations
+RXRX,Recursion Pharmaceuticals Inc. Class A Common Stock,$4.66,-0.04,-0.851%,2422,United States,2021.0,15295928,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NBY,NovaBay Pharmaceuticals Inc. Common Stock,$19.16,9.7,102.537%,2414,United States,2007.0,10282523,Health Care,Biotechnology: Pharmaceutical Preparations
+ADPT,Adaptive Biotechnologies Corporation Common Stock,$15.76,-0.2,-1.253%,2406,United States,2019.0,2468941,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OCUL,Ocular Therapeutix Inc. Common Stock,$11.26,-0.12,-1.054%,2398,United States,2014.0,2661827,Health Care,Biotechnology: Pharmaceutical Preparations
+SYRE,Spyre Therapeutics Inc. Common Stock,$30.61,0.47,1.559%,2375,United States,2016.0,456056,Health Care,Biotechnology: Pharmaceutical Preparations
+IMNM,Immunome Inc. Common Stock,$21.07,0.62,3.032%,2324,United States,2020.0,2839287,Health Care,Biotechnology: Pharmaceutical Preparations
+IBRX,ImmunityBio Inc. Common Stock,$2.33,0.09,4.018%,2294,United States,2015.0,12473377,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+QDEL,QuidelOrtho Corporation Common Stock,$33.645,0.135,0.403%,2285,United States,,1196395,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+RCUS,Arcus Biosciences Inc. Common Stock,$21.01,-0.34,-1.593%,2268,United States,2018.0,2414172,Health Care,Biotechnology: Pharmaceutical Preparations
+HRMY,Harmony Biosciences Holdings Inc. Common Stock,$38.55,0.68,1.796%,2220,United States,2020.0,737333,Health Care,Biotechnology: Pharmaceutical Preparations
+GLPG,Galapagos NV American Depositary Shares,$33.11,0.12,0.364%,2181,Belgium,2015.0,96913,Health Care,Biotechnology: Pharmaceutical Preparations
+RARE,Ultragenyx Pharmaceutical Inc. Common Stock,$22.51,-0.7,-3.016%,2171,United States,2014.0,2763721,Health Care,Biotechnology: Pharmaceutical Preparations
+TWST,Twist Bioscience Corporation Common Stock,$35.32,0.58,1.67%,2161,United States,2018.0,863589,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OLMA,Olema Pharmaceuticals Inc. Common Stock,$28.08,2.51,9.816%,2110,United States,2020.0,2541955,Health Care,Biotechnology: Pharmaceutical Preparations
+AVDL,Avadel Pharmaceuticals plc Ordinary Share,$21.50,0.02,0.093%,2099,France,,1989919,Health Care,Biotechnology: Pharmaceutical Preparations
+OGN,Organon & Co. Common Stock ,$8.05,-0.08,-0.984%,2092,United States,2021.0,3822561,Health Care,Biotechnology: Pharmaceutical Preparations
+NEOG,Neogen Corporation Common Stock,$9.62,-0.09,-0.927%,2090,United States,1989.0,9506442,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+PRGO,Perrigo Company plc Ordinary Shares,$15.08,0.38,2.585%,2075,United States,,2272391,Health Care,Biotechnology: Pharmaceutical Preparations
+ZLAB,Zai Lab Limited American Depositary Shares,$18.55,0.05,0.27%,2051,China,2017.0,678967,Health Care,Biotechnology: Pharmaceutical Preparations
+ALMS,Alumis Inc. Common Stock,$19.56,1.38,7.591%,2041,United States,2024.0,5996726,Health Care,Biotechnology: Pharmaceutical Preparations
+AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,$15.15,-0.18,-1.174%,1997,Canada,,907636,Health Care,Biotechnology: Pharmaceutical Preparations
+VCEL,Vericel Corporation Common Stock,$38.56,-2.17,-5.328%,1950,United States,,787698,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MAZE,Maze Therapeutics Inc. Common Stock,$40.32,1.37,3.517%,1940,United States,2025.0,204855,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ERAS,Erasca Inc. Common Stock,$6.76,0.95,16.351%,1917,United States,2021.0,11760640,Health Care,Biotechnology: Pharmaceutical Preparations
+ARDX,Ardelyx Inc. Common Stock,$7.74,0.74,10.571%,1880,United States,2014.0,17894480,Health Care,Biotechnology: Pharmaceutical Preparations
+STOK,Stoke Therapeutics Inc. Common Stock,$32.85,-0.83,-2.464%,1876,United States,2019.0,617342,Health Care,Biotechnology: Pharmaceutical Preparations
+SNDX,Syndax Pharmaceuticals Inc. Common Stock,$21.00,-0.39,-1.823%,1825,United States,2016.0,1041991,Health Care,Biotechnology: Pharmaceutical Preparations
+CLDX,Celldex Therapeutics Inc.,$27.38,0.03,0.11%,1819,United States,,544777,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+DVAX,Dynavax Technologies Corporation Common Stock,$15.41,0.0,0.00%,1809,United States,2004.0,2272277,Health Care,Biotechnology: Pharmaceutical Preparations
+MNKD,MannKind Corporation Common Stock,$5.85,-0.16,-2.662%,1796,United States,2004.0,2601318,Health Care,Biotechnology: Pharmaceutical Preparations
+SION,Sionna Therapeutics Inc. Common Stock,$39.25,2.65,7.24%,1751,United States,2025.0,412032,Health Care,Biotechnology: Pharmaceutical Preparations
+ZYME,Zymeworks Inc. Common Stock,$23.17,0.07,0.303%,1733,United States,,984064,Health Care,Biotechnology: Pharmaceutical Preparations
+HROW,Harrow Inc. Common Stock,$46.78,-4.26,-8.346%,1732,United States,,841233,Health Care,Biotechnology: Pharmaceutical Preparations
+ANIP,ANI Pharmaceuticals Inc.,$76.28,-4.76,-5.874%,1713,United States,,1279040,Health Care,Biotechnology: Pharmaceutical Preparations
+KOD,Kodiak Sciences Inc Common Stock,$27.72,1.1,4.132%,1661,United States,2018.0,744817,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+AGIO,Agios Pharmaceuticals Inc. Common Stock,$28.41,0.25,0.888%,1656,United States,2013.0,1170342,Health Care,Biotechnology: Pharmaceutical Preparations
+DNTH,Dianthus Therapeutics Inc. Common Stock,$38.19,0.07,0.184%,1637,United States,2018.0,915970,Health Care,Biotechnology: Pharmaceutical Preparations
+PGEN,Precigen Inc. Common Stock,$4.59,-0.02,-0.434%,1624,United States,,3534597,Health Care,Biotechnology: Pharmaceutical Preparations
+UPB,Upstream Bio Inc. Common Stock,$29.75,2.21,8.025%,1607,United States,2024.0,851347,Health Care,Biotechnology: Pharmaceutical Preparations
+PAHC,Phibro Animal Health Corporation Class A Common Stock,$39.44,-0.28,-0.705%,1598,United States,2014.0,163725,Health Care,Biotechnology: Pharmaceutical Preparations
+IMCR,Immunocore Holdings plc American Depositary Shares,$33.00,-0.05,-0.151%,1586,United Kingdom,2021.0,320915,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TNGX,Tango Therapeutics Inc.,$11.75,0.695,6.287%,1582,United States,2020.0,5492248,Health Care,Biotechnology: Pharmaceutical Preparations
+GLUE,Monte Rosa Therapeutics Inc. Common Stock,$24.28,-1.03,-4.07%,1581,United States,2021.0,5677440,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+QURE,uniQure N.V. Ordinary Shares,$25.32,2.17,9.374%,1577,Netherlands,2014.0,4662756,Health Care,Biotechnology: Pharmaceutical Preparations
+TYRA,Tyra Biosciences Inc. Common Stock,$29.31,-1.04,-3.427%,1564,United States,2021.0,547206,Health Care,Biotechnology: Pharmaceutical Preparations
+BCRX,BioCryst Pharmaceuticals Inc. Common Stock,$7.40,-0.22,-2.887%,1559,United States,1994.0,6007689,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ELVN,Enliven Therapeutics Inc. Common Stock,$26.00,2.75,11.828%,1543,United States,2020.0,5785876,Health Care,Biotechnology: Pharmaceutical Preparations
+NRIX,Nurix Therapeutics Inc. Common stock,$19.30,0.67,3.596%,1483,United States,2020.0,1416026,Health Care,Biotechnology: Pharmaceutical Preparations
+INVA,Innoviva Inc. Common Stock,$19.58,-0.07,-0.356%,1463,United States,2004.0,530493,Health Care,Biotechnology: Pharmaceutical Preparations
+COLL,Collegium Pharmaceutical Inc. Common Stock,$45.54,-3.24,-6.642%,1439,United States,2015.0,675058,Health Care,Biotechnology: Pharmaceutical Preparations
+TRVI,Trevi Therapeutics Inc. Common Stock,$11.18,-0.03,-0.268%,1433,United States,2019.0,1278880,Health Care,Biotechnology: Pharmaceutical Preparations
+MBX,MBX Biosciences Inc. Common Stock,$31.66,0.94,3.06%,1421,United States,2024.0,414802,Health Care,Biotechnology: Pharmaceutical Preparations
+PHVS,Pharvaris N.V. Ordinary Shares,$25.89,0.89,3.56%,1410,Netherlands,2021.0,309984,Health Care,Biotechnology: Pharmaceutical Preparations
+ALVO,Alvotech Ordinary Shares,$4.64,-0.09,-1.903%,1400,Luxembourg,,332149,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RLAY,Relay Therapeutics Inc. Common Stock,$7.99,-0.01,-0.125%,1384,United States,2020.0,1121470,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RAPP,Rapport Therapeutics Inc. Common Stock,$28.96,0.65,2.296%,1379,United States,2024.0,299631,Health Care,Biotechnology: Pharmaceutical Preparations
+TSHA,Taysha Gene Therapies Inc. Common Stock,$4.98,-0.16,-3.113%,1364,United States,2020.0,3016484,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ATAI,AtaiBeckley Inc. Common Stock,$3.75,-0.22,-5.542%,1362,Germany,2008.0,4895532,Health Care,Biotechnology: Pharmaceutical Preparations
+SDGR,Schrodinger Inc. Common Stock,$18.39,-0.22,-1.182%,1354,United States,2020.0,1049665,Health Care,Biotechnology: Pharmaceutical Preparations
+ORKA,Oruka Therapeutics Inc. Common Stock,$27.86,1.46,5.53%,1348,United States,,540365,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+AMLX,Amylyx Pharmaceuticals Inc. Common Stock,$12.21,0.38,3.212%,1340,United States,2022.0,1200109,Health Care,Biotechnology: Pharmaceutical Preparations
+XERS,Xeris Biopharma Holdings Inc. Common Stock,$7.93,-0.2,-2.46%,1315,United States,2018.0,2752148,Health Care,Biotechnology: Pharmaceutical Preparations
+SPRY,ARS Pharmaceuticals Inc. Common Stock,$13.06,2.11,19.269%,1290,United States,2020.0,6057494,Health Care,Biotechnology: Pharmaceutical Preparations
+ABCL,AbCellera Biologics Inc. Common Shares,$4.37,0.26,6.326%,1287,Canada,2020.0,6432261,Health Care,Biotechnology: Pharmaceutical Preparations
+PHAR,Pharming Group N.V. ADS each representing 10 ordinary shares,$18.71,0.82,4.584%,1279,Netherlands,,25509,Health Care,Biotechnology: Pharmaceutical Preparations
+AMPH,Amphastar Pharmaceuticals Inc. Common Stock,$27.74,0.0,0.00%,1274,United States,2014.0,247216,Health Care,Biotechnology: Pharmaceutical Preparations
+ANAB,AnaptysBio Inc. Common Stock,$44.67,0.87,1.986%,1236,United States,2017.0,591811,Health Care,Biotechnology: Pharmaceutical Preparations
+CAPR,Capricor Therapeutics Inc. Common Stock,$23.84,-1.71,-6.693%,1232,United States,,2603951,Health Care,Biotechnology: Pharmaceutical Preparations
+IMTX,Immatics N.V. Ordinary Shares,$9.17,-0.15,-1.609%,1229,Germany,,408506,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OCS,Oculis Holding AG Ordinary shares,$23.07,1.04,4.721%,1219,Switzerland,,453662,Health Care,Biotechnology: Pharmaceutical Preparations
+SANA,Sana Biotechnology Inc. Common Stock,$4.56,0.04,0.885%,1214,United States,2021.0,2563032,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NTLA,Intellia Therapeutics Inc. Common Stock,$10.38,-0.14,-1.331%,1202,United States,2016.0,6851420,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,$18.49,4.15,28.94%,1187,United States,2020.0,14588499,Health Care,Biotechnology: Pharmaceutical Preparations
+SVRA,Savara Inc. Common Stock,$5.81,0.05,0.868%,1182,United States,,1116753,Health Care,Biotechnology: Pharmaceutical Preparations
+NVAX,Novavax Inc. Common Stock,$7.27,-0.07,-0.954%,1181,United States,,2774164,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BHVN,Biohaven Ltd. Common Shares ,$11.11,-0.25,-2.201%,1176,United States,2022.0,2837713,Health Care,Biotechnology: Pharmaceutical Preparations
+SEPN,Septerna Inc. Common Stock,$25.30,-0.44,-1.709%,1132,United States,2024.0,234313,Health Care,Biotechnology: Pharmaceutical Preparations
+BCAX,Bicara Therapeutics Inc. Common Stock,$17.95,1.39,8.394%,1122,United States,2024.0,442135,Health Care,Biotechnology: Pharmaceutical Preparations
+PVLA,Palvella Therapeutics Inc. Common Stock,$92.41,-4.97,-5.104%,1093,United States,,227541,Health Care,Biotechnology: Pharmaceutical Preparations
+PHAT,Phathom Pharmaceuticals Inc. Common Stock,$15.015,-0.585,-3.75%,1072,United States,2019.0,1532398,Health Care,Biotechnology: Pharmaceutical Preparations
+INBX,Inhibrx Biosciences Inc. Common Stock,$72.86,-2.34,-3.112%,1059,United States,,119643,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BBOT,BridgeBio Oncology Therapeutics Inc. Common Stock  ,$13.19,-0.11,-0.827%,1055,United States,2024.0,796092,Health Care,Biotechnology: Pharmaceutical Preparations
+OPK,OPKO Health Inc. Common Stock,$1.36,-0.01,-0.73%,1044,United States,,2493091,Health Care,Biotechnology: Pharmaceutical Preparations
+PCRX,Pacira BioSciences Inc. Common Stock,$23.53,-2.49,-9.57%,1012,United States,2011.0,2441233,Health Care,Biotechnology: Pharmaceutical Preparations
+MRVI,Maravai LifeSciences Holdings Inc. Class A Common Stock,$3.93,0.08,2.078%,1004,United States,2020.0,1001191,Health Care,Biotechnology: Pharmaceutical Preparations
+URGN,UroGen Pharma Ltd. Ordinary Shares,$21.25,-2.22,-9.459%,994,Israel,2017.0,852048,Health Care,Biotechnology: Pharmaceutical Preparations
+XNCR,Xencor Inc. Common Stock,$13.89,-0.3,-2.114%,991,United States,2013.0,1397179,Health Care,Biotechnology: Pharmaceutical Preparations
+VTYX,Ventyx Biosciences Inc. Common Stock,$13.81,-0.03,-0.217%,985,United States,2021.0,12985277,Health Care,Biotechnology: Pharmaceutical Preparations
+NBTX,Nanobiotix S.A. American Depositary Shares,$20.54,0.57,2.854%,974,France,2020.0,43040,Health Care,Biotechnology: Pharmaceutical Preparations
+IOVA,Iovance Biotherapeutics Inc. Common Stock,$2.45,-0.16,-6.13%,972,United States,,9795890,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TBPH,Theravance Biopharma Inc. Ordinary Shares,$19.04,0.02,0.105%,964,Cayman Islands,,250302,Health Care,Biotechnology: Pharmaceutical Preparations
+CMPX,Compass Therapeutics Inc. Common Stock,$5.35,0.18,3.482%,951,United States,,4347714,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GHRS,GH Research PLC Ordinary Shares,$15.01,-0.54,-3.473%,931,Ireland,2021.0,426673,Health Care,Biotechnology: Pharmaceutical Preparations
+RAPT,RAPT Therapeutics Inc. Common Stock,$33.62,2.42,7.756%,931,United States,2019.0,338086,Health Care,Biotechnology: Pharmaceutical Preparations
+ESPR,Esperion Therapeutics Inc. Common Stock,$3.88,-0.03,-0.767%,927,United States,2013.0,4772996,Health Care,Biotechnology: Pharmaceutical Preparations
+DAWN,Day One Biopharmaceuticals Inc. Common Stock,$8.94,-0.31,-3.351%,917,United States,2021.0,1229551,Health Care,Biotechnology: Pharmaceutical Preparations
+MDXG,MiMedx Group Inc Common Stock,$6.10,-0.21,-3.328%,903,United States,,1101712,Health Care,Biotechnology: Pharmaceutical Preparations
+ORIC,Oric Pharmaceuticals Inc. Common Stock,$9.15,0.7,8.284%,891,United States,2020.0,1627454,Health Care,Biotechnology: Pharmaceutical Preparations
+ABUS,Arbutus Biopharma Corporation Common Stock,$4.62,-0.03,-0.645%,888,Canada,,902021,Health Care,Biotechnology: Pharmaceutical Preparations
+OMER,Omeros Corporation Common Stock,$12.49,-0.96,-7.138%,885,United States,2009.0,4556079,Health Care,Biotechnology: Pharmaceutical Preparations
+ZBIO,Zenas BioPharma Inc. Common Stock,$16.08,-0.33,-2.011%,863,United States,2024.0,528960,Health Care,Biotechnology: Pharmaceutical Preparations
+GERN,Geron Corporation Common Stock,$1.34,-0.03,-2.19%,855,United States,1996.0,15642190,Health Care,Biotechnology: Pharmaceutical Preparations
+JANX,Janux Therapeutics Inc. Common Stock,$14.16,0.25,1.797%,851,United States,2021.0,1229397,Health Care,Biotechnology: Pharmaceutical Preparations
+KALV,KalVista Pharmaceuticals Inc. Common Stock,$16.80,0.98,6.195%,849,United Kingdom,2015.0,5016192,Health Care,Biotechnology: Pharmaceutical Preparations
+AVBP,ArriVent BioPharma Inc. Common Stock,$20.52,0.9,4.587%,847,United States,2024.0,307599,Health Care,Biotechnology: Pharmaceutical Preparations
+KURA,Kura Oncology Inc. Common Stock,$9.41,-0.14,-1.466%,818,United States,,1654867,Health Care,Biotechnology: Pharmaceutical Preparations
+MPLT,MapLight Therapeutics Inc. Common Stock,$18.02,0.83,4.828%,817,United States,2025.0,134223,Health Care,Biotechnology: Pharmaceutical Preparations
+VIR,Vir Biotechnology Inc. Common Stock,$5.85,-0.1,-1.681%,813,United States,2019.0,1317022,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+VALN,Valneva SE American Depositary Shares,$9.87,0.12,1.231%,802,France,2021.0,7499,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NKTR,Nektar Therapeutics  Common Stock,$39.71,-1.73,-4.175%,780,United States,,734064,Health Care,Biotechnology: Pharmaceutical Preparations
+ARVN,Arvinas Inc. Common Stock,$12.07,-0.11,-0.903%,775,United States,2018.0,485225,Health Care,Biotechnology: Pharmaceutical Preparations
+LXEO,Lexeo Therapeutics Inc. Common Stock,$10.54,1.07,11.299%,769,United States,2023.0,1795844,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RIGL,Rigel Pharmaceuticals Inc. Common Stock,$40.84,-3.66,-8.225%,741,United States,2000.0,694317,Health Care,Biotechnology: Pharmaceutical Preparations
+RGNX,REGENXBIO Inc. Common Stock,$14.59,-0.41,-2.733%,738,United States,2015.0,441170,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CTMX,CytomX Therapeutics Inc. Common Stock,$4.35,0.09,2.113%,737,United States,2015.0,2021563,Health Care,Biotechnology: Pharmaceutical Preparations
+ATXS,Astria Therapeutics Inc. Common Stock,$12.88,-0.1,-0.77%,735,United States,2015.0,614103,Health Care,Biotechnology: Pharmaceutical Preparations
+BGM,BGM Group Ltd. Class A Ordinary Shares,$3.98,0.15,3.916%,732,China,2021.0,1588,Health Care,Biotechnology: Pharmaceutical Preparations
+GYRE,Gyre Therapeutics Inc. Common Stock,$7.40,-0.17,-2.246%,712,United States,2006.0,48281,Health Care,Biotechnology: Pharmaceutical Preparations
+PRME,Prime Medicine Inc. Common Stock,$3.94,0.02,0.51%,711,United States,2022.0,2260687,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PROK,ProKidney Corp. Class A Ordinary Shares,$2.34,-0.02,-0.847%,703,United States,2021.0,808736,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CMPS,COMPASS Pathways Plc American Depository Shares,$7.22,-0.4,-5.249%,693,United Kingdom,2020.0,1913183,Health Care,Biotechnology: Pharmaceutical Preparations
+EBS,Emergent BioSolutions Inc. Common Stock,$12.96,-0.4,-2.994%,680,United States,2006.0,616690,Health Care,Biotechnology: Pharmaceutical Preparations
+JBIO,Jade Biosciences Inc. Common Stock,$13.53,0.28,2.113%,667,United States,2021.0,186453,Health Care,Biotechnology: Pharmaceutical Preparations
+DRUG,Bright Minds Biosciences Inc. Common Stock,$86.75,-3.26,-3.622%,662,Canada,,182136,Health Care,Biotechnology: Pharmaceutical Preparations
+IRWD,Ironwood Pharmaceuticals Inc. Class A Common Stock,$4.06,0.08,2.01%,660,United States,2010.0,3129446,Health Care,Biotechnology: Pharmaceutical Preparations
+FULC,Fulcrum Therapeutics Inc. Common Stock,$9.85,-0.26,-2.572%,649,United States,2019.0,735965,Health Care,Biotechnology: Pharmaceutical Preparations
+CGEM,Cullinan Therapeutics Inc. Common Stock,$10.90,-0.24,-2.154%,643,United States,2021.0,745804,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+EVMN,Evommune Inc. Common Stock,$20.13,1.9,10.422%,634,,2025.0,503972,Health Care,Biotechnology: Pharmaceutical Preparations
+REPL,Replimune Group Inc. Common Stock,$8.03,-0.2,-2.43%,629,United States,2018.0,1145598,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OCSAW,Oculis Holding AG Warrants,$11.90,1.4,13.333%,629,Switzerland,,3736,Health Care,Biotechnology: Pharmaceutical Preparations
+ANNX,Annexon Inc. Common Stock,$5.25,-0.04,-0.756%,628,United States,2020.0,1869924,Health Care,Biotechnology: Pharmaceutical Preparations
+RVMDW,Revolution Medicines Inc. Warrant,$3.20,0.95,42.222%,618,United States,,927103,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MYGN,Myriad Genetics Inc. Common Stock,$6.58,0.02,0.305%,613,United States,1995.0,849834,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+CRMD,CorMedix Inc. Common Stock,$7.63,0.12,1.598%,601,United States,,8320940,Health Care,Biotechnology: Pharmaceutical Preparations
+MGTX,MeiraGTx Holdings plc Ordinary Shares,$7.41,0.13,1.786%,596,United States,2018.0,475528,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ENGN,enGene Holdings Inc. Common Stock,$8.81,0.31,3.647%,590,Canada,,445728,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IVVD,Invivyd Inc. Common Stock,$2.52,0.01,0.398%,587,United States,2021.0,3320690,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+KROS,Keros Therapeutics Inc. Common Stock,$19.20,0.62,3.337%,584,United States,2020.0,459005,Health Care,Biotechnology: Pharmaceutical Preparations
+GOSS,Gossamer Bio Inc. Common Stock,$2.50,0.0,0.00%,578,United States,2019.0,3400991,Health Care,Biotechnology: Pharmaceutical Preparations
+DBVT,DBV Technologies S.A. American Depositary Shares,$17.01,0.01,0.059%,575,France,2014.0,249287,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+DNA,Ginkgo Bioworks Holdings Inc. Class A Common Stock,$9.24,0.18,1.987%,559,United States,2021.0,723958,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ORGO,Organogenesis Holdings Inc. Class A Common Stock,$4.21,0.0,0.00%,534,United States,2016.0,750827,Health Care,Biotechnology: Pharmaceutical Preparations
+DSGN,Design Therapeutics Inc. Common Stock,$9.39,0.21,2.288%,534,United States,2021.0,167118,Health Care,Biotechnology: Pharmaceutical Preparations
+CYRX,CryoPort Inc. Common Stock,$10.56,0.06,0.571%,528,United States,,346558,Health Care,Biotechnology: Pharmaceutical Preparations
+THAR,Tharimmune Inc. Common Stock,$2.79,-0.12,-4.124%,524,United States,2022.0,340572,Health Care,Biotechnology: Pharmaceutical Preparations
+LBRX,LB Pharmaceuticals Inc Common Stock,$20.73,-0.07,-0.337%,524,United States,2025.0,215743,Health Care,Biotechnology: Pharmaceutical Preparations
+VSTM,Verastem Inc. Common Stock,$7.79,-0.08,-1.017%,520,United States,2012.0,2171693,Health Care,Biotechnology: Pharmaceutical Preparations
+LYEL,Lyell Immunopharma Inc. Common Stock,$24.55,0.25,1.029%,520,United States,2021.0,111612,Health Care,Biotechnology: Pharmaceutical Preparations
+ANRO,Alto Neuroscience Inc. Common Stock,$16.37,0.48,3.021%,508,United States,2024.0,215245,Health Care,Biotechnology: Pharmaceutical Preparations
+CRVS,Corvus Pharmaceuticals Inc. Common Stock,$6.79,-0.13,-1.879%,507,United States,2016.0,1677072,Health Care,Biotechnology: Pharmaceutical Preparations
+BIOA,BioAge Labs Inc. Common Stock,$14.03,0.11,0.79%,503,United States,2024.0,416305,Health Care,Biotechnology: Pharmaceutical Preparations
+ASMB,Assembly Biosciences Inc. Common Stock,$31.74,0.18,0.57%,502,United States,2010.0,110684,Health Care,Biotechnology: Pharmaceutical Preparations
+PRTA,Prothena Corporation plc Ordinary Shares,$9.19,0.14,1.547%,494,United States,,401916,Health Care,Biotechnology: Pharmaceutical Preparations
+SLS,SELLAS Life Sciences Group Inc. Common Stock,$3.46,-0.4,-10.363%,492,United States,,17384140,Health Care,Biotechnology: Pharmaceutical Preparations
+AUTL,Autolus Therapeutics plc American Depositary Share,$1.81,-0.1,-5.236%,481,United Kingdom,2018.0,2071131,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+AQST,Aquestive Therapeutics Inc. Common Stock,$3.91,-2.3,-37.037%,477,United States,2018.0,43455362,Health Care,Biotechnology: Pharmaceutical Preparations
+ZVRA,Zevra Therapeutics Inc. Common Stock,$8.49,-0.14,-1.622%,477,United States,,771649,Health Care,Biotechnology: Pharmaceutical Preparations
+KYTX,Kyverna Therapeutics Inc. Common Stock,$8.32,-0.13,-1.538%,475,United States,2024.0,585383,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SIGA,SIGA Technologies Inc. Common Stock,$6.61,-0.16,-2.363%,473,United States,,280867,Health Care,Biotechnology: Pharmaceutical Preparations
+OCGN,Ocugen Inc. Common Stock,$1.50,0.01,0.671%,468,United States,2014.0,2889097,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+LENZ,LENZ Therapeutics Inc. Common Stock,$14.87,-0.37,-2.428%,465,United States,2021.0,1673739,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+KMDA,Kamada Ltd. Ordinary Shares,$8.04,0.09,1.132%,462,Israel,2013.0,105022,Health Care,Biotechnology: Pharmaceutical Preparations
+IVA,Inventiva S.A. American Depository Shares,$4.83,-0.09,-1.829%,462,France,2020.0,161511,Health Care,Biotechnology: Pharmaceutical Preparations
+BCYC,Bicycle Therapeutics plc American Depositary Shares,$6.64,0.01,0.151%,460,United Kingdom,2019.0,164260,Health Care,Biotechnology: Pharmaceutical Preparations
+ADCT,ADC Therapeutics SA Common Shares,$3.66,0.09,2.521%,453,Switzerland,2020.0,637657,Health Care,Biotechnology: Pharmaceutical Preparations
+PURR,Hyperliquid Strategies Inc Common Stock,$3.55,-0.03,-0.838%,450,United States,,613555,Health Care,Biotechnology: Pharmaceutical Preparations
+PEPG,PepGen Inc. Common Stock,$6.47,-0.27,-4.006%,444,United States,2022.0,451985,Health Care,Biotechnology: Pharmaceutical Preparations
+IMMP,Immutep Limited American Depositary Shares,$2.95,-0.03,-1.007%,434,Australia,,82960,Health Care,Biotechnology: Pharmaceutical Preparations
+VNDA,Vanda Pharmaceuticals Inc. Common Stock,$7.33,-0.01,-0.136%,433,United States,2006.0,1259117,Health Care,Biotechnology: Pharmaceutical Preparations
+FDMT,4D Molecular Therapeutics Inc. Common Stock,$7.50,0.2,2.74%,428,United States,2020.0,632208,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PRTC,PureTech Health plc American Depositary Shares,$17.60,0.0219,0.125%,425,United States,,1083,Health Care,Biotechnology: Pharmaceutical Preparations
+NBP,NovaBridge Biosciences American Depositary Shares,$3.70,-0.09,-2.375%,425,China,2020.0,1064330,Health Care,Biotechnology: Pharmaceutical Preparations
+LXRX,Lexicon Pharmaceuticals Inc. Common Stock,$1.17,-0.01,-0.847%,425,United States,,1200860,Health Care,Biotechnology: Pharmaceutical Preparations
+DMAC,DiaMedica Therapeutics Inc. Common Stock,$8.16,-0.19,-2.275%,424,United States,2018.0,135966,Health Care,Biotechnology: Pharmaceutical Preparations
+MNPR,Monopar Therapeutics Inc. Common Stock,$63.00,-0.4,-0.631%,421,United States,2019.0,325392,Health Care,Biotechnology: Pharmaceutical Preparations
+ALT,Altimmune Inc. Common Stock,$4.02,-0.06,-1.471%,419,United States,,3048780,Health Care,Biotechnology: Pharmaceutical Preparations
+ETON,Eton Pharmaceuticals Inc. Common Stock,$15.46,-1.06,-6.416%,414,United States,2018.0,423785,Health Care,Biotechnology: Pharmaceutical Preparations
+SLDB,Solid Biosciences Inc. Common Stock,$5.29,-0.02,-0.377%,412,United States,2018.0,655279,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RCKT,Rocket Pharmaceuticals Inc. Common Stock,$3.73,-0.15,-3.866%,403,United States,2015.0,1462437,Health Care,Biotechnology: Pharmaceutical Preparations
+AKBA,Akebia Therapeutics Inc. Common Stock,$1.52,0.03,2.013%,403,United States,2014.0,2647157,Health Care,Biotechnology: Pharmaceutical Preparations
+BNTC,Benitec Biopharma Inc. Common Stock,$11.84,-0.34,-2.791%,400,United States,2015.0,93737,Health Care,Biotechnology: Pharmaceutical Preparations
+LCTX,Lineage Cell Therapeutics Inc. Common Stock,$1.71,-0.05,-2.841%,393,United States,,1000484,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TECX,Tectonic Therapeutic Inc. Common Stock,$20.56,-0.9,-4.194%,384,United States,2018.0,422656,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ALLO,Allogene Therapeutics Inc. Common Stock,$1.71,0.22,14.765%,384,United States,2018.0,12293286,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TRDA,Entrada Therapeutics Inc. Common Stock,$10.02,-0.5,-4.753%,382,United States,2021.0,101589,Health Care,Biotechnology: Pharmaceutical Preparations
+AVXL,Anavex Life Sciences Corp. Common Stock,$4.28,0.01,0.234%,382,United States,,1483854,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NATR,Nature's Sunshine Products Inc. Common Stock,$21.73,-0.27,-1.227%,380,United States,,56321,Health Care,Biotechnology: Pharmaceutical Preparations
+ENTA,Enanta Pharmaceuticals Inc. Common Stock,$13.11,-0.33,-2.455%,378,United States,2013.0,214264,Health Care,Biotechnology: Pharmaceutical Preparations
+HELP,Cybin Inc. Common Stock,$7.53,0.16,2.171%,375,Canada,,571752,Health Care,Biotechnology: Pharmaceutical Preparations
+NMRA,Neumora Therapeutics Inc. Common Stock,$2.22,-0.11,-4.721%,370,United States,2023.0,2157420,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XOMA,XOMA Royalty Corporation Common Stock,$29.85,-0.07,-0.234%,369,United States,1986.0,855602,Health Care,Biotechnology: Pharmaceutical Preparations
+EOLS,Evolus Inc. Common Stock,$5.65,-0.09,-1.568%,366,United States,2018.0,3100633,Health Care,Biotechnology: Pharmaceutical Preparations
+ARMP,Armata Pharmaceuticals Inc. Common Stock,$7.05,-0.84,-10.646%,355,United States,,58390,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SOPH,SOPHiA GENETICS SA Ordinary Shares,$5.29,0.33,6.653%,353,Switzerland,2021.0,308549,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GLSI,Greenwich LifeSciences Inc. Common Stock,$25.28,2.87,12.807%,350,United States,2020.0,543378,Health Care,Biotechnology: Pharmaceutical Preparations
+XFOR,X4 Pharmaceuticals Inc. Common Stock,$4.00,-0.04,-0.99%,349,United States,2017.0,1089038,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CLYM,Climb Bio Inc. Common Stock,$5.03,0.45,9.825%,342,United States,2021.0,1442085,Health Care,Biotechnology: Pharmaceutical Preparations
+ACIU,AC Immune SA Common Stock,$3.41,-0.03,-0.872%,342,Switzerland,2016.0,362475,Health Care,Biotechnology: Pharmaceutical Preparations
+CTNM,Contineum Therapeutics Inc. Class A Common Stock,$9.31,0.14,1.527%,340,United States,2024.0,234923,Health Care,Biotechnology: Pharmaceutical Preparations
+ZURA,Zura Bio Limited Class A Ordinary Shares,$5.12,-0.14,-2.662%,332,Cayman Islands,,296386,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XOMAP,XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock,$26.63,0.0,0.00%,329,United States,,5,Health Care,Biotechnology: Pharmaceutical Preparations
+AMRN,Amarin Corporation plc,$15.82,-0.58,-3.537%,328,Ireland,,114404,Health Care,Biotechnology: Pharmaceutical Preparations
+IKT,Inhibikase Therapeutics Inc. Common Stock,$1.715,0.045,2.695%,327,United States,2020.0,629218,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+FBIOP,Fortress Biotech Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock,$10.31,0.21,2.079%,326,United States,,12196,Health Care,Biotechnology: Pharmaceutical Preparations
+EVO,Evotec SE American Depositary Shares,$3.66,-0.02,-0.543%,324,Germany,2021.0,43492,Health Care,Biotechnology: Pharmaceutical Preparations
+AURA,Aura Biosciences Inc. Common Stock,$5.09,-0.07,-1.357%,323,United States,2021.0,178860,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+VYGR,Voyager Therapeutics Inc. Common Stock,$4.02,-0.04,-0.985%,318,United States,2015.0,359864,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CCCC,C4 Therapeutics Inc. Common Stock,$2.14,-0.05,-2.283%,317,United States,2020.0,1083149,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CLLS,Cellectis S.A. American Depositary Shares,$4.41,-0.07,-1.563%,317,France,2015.0,32000,Health Care,Biotechnology: Pharmaceutical Preparations
+RLMD,Relmada Therapeutics Inc. Common Stock,$4.31,-0.12,-2.709%,316,United States,,282270,Health Care,Biotechnology: Pharmaceutical Preparations
+XOMAO,XOMA Royalty Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,$25.336,0.001,0.004%,313,United States,,3986,Health Care,Biotechnology: Pharmaceutical Preparations
+CADL,Candel Therapeutics Inc. Common Stock,$5.71,0.16,2.883%,313,United States,2021.0,671842,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+AARD,Aardvark Therapeutics Inc. Common Stock,$14.27,-0.24,-1.654%,310,United States,2025.0,105959,Health Care,Biotechnology: Pharmaceutical Preparations
+AVTX,Avalo Therapeutics Inc. Common Stock,$16.95,-0.16,-0.935%,307,United States,2015.0,175323,Health Care,Biotechnology: Pharmaceutical Preparations
+PBYI,Puma Biotechnology Inc Common Stock,$6.11,-0.09,-1.452%,307,United States,,332758,Health Care,Biotechnology: Pharmaceutical Preparations
+STTK,Shattuck Labs Inc. Common Stock,$4.75,0.11,2.371%,300,United States,2020.0,1751205,Health Care,Biotechnology: Pharmaceutical Preparations
+IMRX,Immuneering Corporation Class A Common Stock,$4.655,-0.075,-1.586%,300,United States,2021.0,4924030,Health Care,Biotechnology: Pharmaceutical Preparations
+FBRX,Forte Biosciences Inc. Common Stock,$23.88,-0.3,-1.241%,299,United States,2017.0,264014,Health Care,Biotechnology: Pharmaceutical Preparations
+CBIO,Crescent Biopharma Inc. Common Stock,$10.79,-0.18,-1.641%,297,United States,2014.0,75929,Health Care,Biotechnology: Pharmaceutical Preparations
+PALI,Palisade Bio Inc. Common Stock,$1.99,0.09,4.737%,296,United States,,5979976,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+VOR,Vor Biopharma Inc. Common Stock,$13.52,0.74,5.79%,296,United States,2021.0,971571,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TARA,Protara Therapeutics Inc.  Common Stock,$5.75,0.14,2.496%,296,United States,2014.0,654884,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ACHV,Achieve Life Sciences Inc. Common Shares,$5.56,0.09,1.645%,295,United States,,872986,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+FHTX,Foghorn Therapeutics Inc. Common Stock,$5.16,-0.07,-1.338%,291,United States,2020.0,165793,Health Care,Biotechnology: Pharmaceutical Preparations
+MENS,Jyong Biotech Ltd. Ordinary Shares,$3.81,-0.19,-4.75%,289,Taiwan,2025.0,257099,Health Care,Biotechnology: Pharmaceutical Preparations
+ACRS,Aclaris Therapeutics Inc. Common Stock,$2.64,-0.04,-1.493%,286,United States,2015.0,495754,Health Care,Biotechnology: Pharmaceutical Preparations
+LRMR,Larimar Therapeutics Inc. Common Stock,$3.33,-0.03,-0.893%,285,United States,2014.0,734022,Health Care,Biotechnology: Pharmaceutical Preparations
+LFCR,Lifecore Biomedical Inc. Common Stock,$7.56,-0.21,-2.703%,283,United States,,105377,Health Care,Biotechnology: Pharmaceutical Preparations
+ABEO,Abeona Therapeutics Inc. Common Stock,$5.19,0.1,1.965%,281,United States,,1361415,Health Care,Biotechnology: Pharmaceutical Preparations
+NGNE,Neurogene Inc. Common Stock ,$17.92,-0.76,-4.069%,277,Canada,2014.0,107716,Health Care,Biotechnology: Pharmaceutical Preparations
+ZNTL,Zentalis Pharmaceuticals Inc. Common Stock,$3.74,0.9,31.69%,270,United States,2020.0,10653453,Health Care,Biotechnology: Pharmaceutical Preparations
+AVIR,Atea Pharmaceuticals Inc. Common Stock,$3.45,-0.16,-4.432%,269,United States,2020.0,315097,Health Care,Biotechnology: Pharmaceutical Preparations
+SLN,Silence Therapeutics Plc American Depository Share,$5.52,-0.28,-4.828%,258,United Kingdom,,300191,Health Care,Biotechnology: Pharmaceutical Preparations
+HRTX,Heron Therapeutics Inc. Common Stock,$1.39,0.12,9.449%,254,United States,,7597768,Health Care,Biotechnology: Pharmaceutical Preparations
+IMMX,Immix Biopharma Inc. Common Stock,$4.87,-0.22,-4.322%,253,United States,2021.0,1183882,Health Care,Biotechnology: Pharmaceutical Preparations
+ALDX,Aldeyra Therapeutics Inc. Common Stock,$4.11,-0.07,-1.675%,247,United States,2014.0,643492,Health Care,Biotechnology: Pharmaceutical Preparations
+HUMA,Humacyte Inc. Common Stock,$1.17,0.0,0.00%,245,United States,2020.0,2707284,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RZLT,Rezolute Inc. Common Stock (NV),$2.63,0.26,10.97%,243,United States,,5866170,Health Care,Biotechnology: Pharmaceutical Preparations
+ACTU,Actuate Therapeutics Inc. Common stock,$6.14,-0.14,-2.229%,240,United States,2024.0,71140,Health Care,Biotechnology: Pharmaceutical Preparations
+NTHI,NeOnc Technologies Holdings Inc. Common Stock,$10.00,0.17,1.729%,239,United States,,71158,Health Care,Biotechnology: Pharmaceutical Preparations
+OGI,Organigram Global Inc. Common Shares,$1.72,-0.01,-0.578%,231,Canada,,846726,Health Care,Biotechnology: Pharmaceutical Preparations
+TKNO,Alpha Teknova Inc. Common Stock,$4.19,0.18,4.489%,224,United States,2021.0,238917,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+FENC,Fennec Pharmaceuticals Inc. Common Stock,$7.77,0.19,2.507%,218,United States,,142101,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OVID,Ovid Therapeutics Inc. Common Stock,$1.67,-0.06,-3.468%,217,United States,2017.0,945089,Health Care,Biotechnology: Pharmaceutical Preparations
+NVCT,Nuvectis Pharma Inc. Common Stock,$8.46,-0.39,-4.407%,216,United States,2022.0,87190,Health Care,Biotechnology: Pharmaceutical Preparations
+ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,$0.9017,0.0638,7.614%,214,Israel,2014.0,465937,Health Care,Biotechnology: Pharmaceutical Preparations
+IMDX,Insight Molecular Diagnostics Inc. Common Stock,$7.44,-0.06,-0.80%,213,United States,,44139,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+RNAC,Cartesian Therapeutics Inc. Common Stock,$8.20,0.08,0.985%,213,United States,2016.0,271822,Health Care,Biotechnology: Pharmaceutical Preparations
+CRDF,Cardiff Oncology Inc. Common Stock,$3.08,-0.09,-2.839%,207,United States,,1054040,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CHRS,Coherus Oncology Inc. Common Stock,$1.69,0.16,10.458%,204,United States,2014.0,3835366,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ALEC,Alector Inc. Common Stock,$1.86,0.09,5.085%,203,United States,2019.0,1320390,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GALT,Galectin Therapeutics Inc. Common Stock,$3.15,-0.05,-1.563%,203,United States,,671810,Health Care,Biotechnology: Pharmaceutical Preparations
+EDIT,Editas Medicine Inc. Common Stock,$2.07,-0.07,-3.271%,202,United States,2016.0,1068659,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CABA,Cabaletta Bio Inc. Common Stock,$2.10,-0.07,-3.226%,202,United States,2019.0,1329190,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SGMT,Sagimet Biosciences Inc. Series A Common Stock,$6.21,0.64,11.49%,201,United States,2023.0,2110394,Health Care,Biotechnology: Pharmaceutical Preparations
+DERM,Journey Medical Corporation Common Stock,$7.27,-0.04,-0.547%,197,United States,2021.0,110389,Health Care,Biotechnology: Pharmaceutical Preparations
+HYPD,Hyperion DeFi Inc. Common Stock,$3.30,-0.15,-4.348%,194,United States,2018.0,185065,Health Care,Biotechnology: Pharmaceutical Preparations
+CGTX,Cognition Therapeutics Inc. Common Stock,$1.41,-0.02,-1.399%,194,United States,2021.0,470809,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,$6.78,0.01,0.148%,192,Israel,2013.0,352164,Health Care,Biotechnology: Pharmaceutical Preparations
+NERV,Minerva Neurosciences Inc Common Stock,$4.45,-0.25,-5.319%,192,United States,2014.0,51992,Health Care,Biotechnology: Pharmaceutical Preparations
+TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,$15.48,0.31,2.044%,188,United States,,223742,Health Care,Biotechnology: Pharmaceutical Preparations
+PRQR,ProQR Therapeutics N.V. Ordinary Shares,$1.77,-0.33,-15.714%,186,Netherlands,2014.0,1309320,Health Care,Biotechnology: Pharmaceutical Preparations
+ENGNW,enGene Holdings Inc. Warrants,$2.76,-0.14,-4.828%,184,Canada,,47685,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+KLRS,Kalaris Therapeutics Inc. Common Stock,$9.78,1.52,18.402%,182,United States,2020.0,238437,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SABS,SAB Biotherapeutics Inc. Common Stock,$3.68,-0.18,-4.663%,175,United States,2021.0,411874,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CGEN,Compugen Ltd. Ordinary Shares,$1.88,0.24,14.634%,175,Israel,2000.0,1301802,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MIST,Milestone Pharmaceuticals Inc. Common Shares,$2.04,-0.15,-6.849%,173,Canada,2019.0,6347441,Health Care,Biotechnology: Pharmaceutical Preparations
+RANI,Rani Therapeutics Holdings Inc. Class A Common Stock,$1.40,0.01,0.719%,170,United States,2021.0,912487,Health Care,Biotechnology: Pharmaceutical Preparations
+IPSC,Century Therapeutics Inc. Common Stock,$1.94,0.17,9.605%,169,United States,2021.0,2333978,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PLX,Protalix BioTherapeutics Inc. (DE) Common Stock,$2.07,0.07,3.50%,166,Israel,,1577040,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PRLD,Prelude Therapeutics Incorporated Common Stock,$2.63,-0.13,-4.71%,165,United States,2020.0,633289,Health Care,Biotechnology: Pharmaceutical Preparations
+MOLN,Molecular Partners AG American Depositary Shares,$4.10,-0.15,-3.529%,165,Switzerland,2021.0,2682,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TNYA,Tenaya Therapeutics Inc. Common Stock,$0.7646,-0.0074,-0.959%,163,United States,2021.0,3115187,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IPHA,Innate Pharma S.A. ADS,$1.76,0.02,1.149%,162,France,2019.0,10580,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SLGL,Sol-Gel Technologies Ltd. Ordinary Shares,$58.00,2.32,4.167%,161,Israel,2018.0,15606,Health Care,Biotechnology: Pharmaceutical Preparations
+BDTX,Black Diamond Therapeutics Inc. Common Stock,$2.81,0.03,1.079%,160,United States,2020.0,1183787,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PYXS,Pyxis Oncology Inc. Common Stock,$1.76,0.31,21.379%,160,United States,2021.0,2982540,Health Care,Biotechnology: Pharmaceutical Preparations
+TLSA,Tiziana Life Sciences Ltd. Common Shares,$1.43,-0.05,-3.378%,159,United Kingdom,2018.0,288325,Health Care,Biotechnology: Pharmaceutical Preparations
+SRZN,Surrozen Inc. Common Stock,$18.49,-0.57,-2.991%,158,United States,,84835,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CRBU,Caribou Biosciences Inc. Common Stock,$1.66,-0.03,-1.775%,155,United States,2021.0,707506,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ALVOW,Alvotech Warrant,$0.51,-0.13,-20.313%,153,Luxembourg,,5579,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SGMO,Sangamo Therapeutics Inc. Common Stock,$0.443,-0.0072,-1.599%,149,United States,2000.0,2817178,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+QNCX,Quince Therapeutics Inc. Common Stock,$2.69,0.01,0.373%,149,United States,2019.0,610863,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+KPTI,Karyopharm Therapeutics Inc. Common Stock,$8.68,0.51,6.242%,148,United States,2013.0,904200,Health Care,Biotechnology: Pharmaceutical Preparations
+NKTX,Nkarta Inc. Common Stock,$2.09,-0.02,-0.948%,148,United States,2020.0,721735,Health Care,Biotechnology: Pharmaceutical Preparations
+CNTX,Context Therapeutics Inc. Common Stock,$1.61,0.01,0.625%,147,United States,2021.0,762196,Health Care,Biotechnology: Pharmaceutical Preparations
+CRBP,Corbus Pharmaceuticals Holdings Inc. Common Stock,$8.31,-0.05,-0.598%,145,United States,,183578,Health Care,Biotechnology: Pharmaceutical Preparations
+SPRO,Spero Therapeutics Inc. Common Stock,$2.55,-0.02,-0.778%,143,United States,2017.0,150652,Health Care,Biotechnology: Pharmaceutical Preparations
+MCRB,Seres Therapeutics Inc. Common Stock,$15.65,0.2,1.294%,141,United States,2015.0,22831,Health Care,Biotechnology: Pharmaceutical Preparations
+ELTX,Elicio Therapeutics Inc. Common Stock,$8.06,-0.18,-2.184%,140,United States,2021.0,145776,Health Care,Biotechnology: Pharmaceutical Preparations
+MBOT,Microbot Medical Inc. Common Stock,$2.09,-0.1,-4.566%,140,Israel,,1178337,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+VTVT,vTv Therapeutics Inc. Class A Common Stock,$35.575,-5.485,-13.358%,140,United States,2015.0,30219,Health Care,Biotechnology: Pharmaceutical Preparations
+IXHL,Incannex Healthcare Inc. Common Stock,$0.396,-0.002,-0.503%,137,Australia,,4860300,Health Care,Biotechnology: Pharmaceutical Preparations
+ORMP,Oramed Pharmaceuticals Inc. Common Stock,$3.43,-0.05,-1.437%,136,Israel,,241898,Health Care,Biotechnology: Pharmaceutical Preparations
+TTRX,Turn Therapeutics Inc. Common Stock,$4.62,-0.03,-0.645%,136,United States,,14674,Health Care,Biotechnology: Pharmaceutical Preparations
+FBIO,Fortress Biotech Inc. Common Stock,$4.30,-0.08,-1.826%,136,United States,,922287,Health Care,Biotechnology: Pharmaceutical Preparations
+IRD,Opus Genetics Inc. Common Stock,$1.93,-0.07,-3.50%,133,United States,,599092,Health Care,Biotechnology: Pharmaceutical Preparations
+UNCY,Unicycive Therapeutics Inc. Common Stock,$6.18,0.06,0.98%,132,United States,2021.0,388907,Health Care,Biotechnology: Pharmaceutical Preparations
+AGEN,Agenus Inc. Common Stock,$3.91,0.16,4.267%,132,United States,2000.0,680757,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+HYFT,MindWalk Holdings Corp. Common Stock,$2.72,-0.06,-2.158%,127,Canada,,597615,Health Care,Biotechnology: Pharmaceutical Preparations
+VRCA,Verrica Pharmaceuticals Inc. Common Stock,$7.945,-0.075,-0.935%,127,United States,2018.0,158010,Health Care,Biotechnology: Pharmaceutical Preparations
+WHWK,Whitehawk Therapeutics Inc. Common Stock,$2.64,-0.07,-2.583%,124,United States,,86143,Health Care,Biotechnology: Pharmaceutical Preparations
+FATE,Fate Therapeutics Inc. Common Stock,$1.05,-0.01,-0.943%,121,United States,2013.0,1259218,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CNTB,Connect Biopharma Holdings Limited Ordinary Shares,$2.15,-0.08,-3.587%,120,China,2021.0,37240,Health Care,Biotechnology: Pharmaceutical Preparations
+ARTV,Artiva Biotherapeutics Inc. Common Stock,$4.855,0.275,6.004%,119,United States,2024.0,249265,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MGNX,MacroGenics Inc. Common Stock,$1.83,0.04,2.235%,115,United States,2013.0,1063056,Health Care,Biotechnology: Pharmaceutical Preparations
+GANX,Gain Therapeutics Inc. Common Stock,$2.31,-0.13,-5.328%,114,United States,2021.0,1148985,Health Care,Biotechnology: Pharmaceutical Preparations
+ANIX,Anixa Biosciences Inc. Common Stock,$3.38,-0.04,-1.17%,111,United States,,447338,Health Care,Biotechnology: Pharmaceutical Preparations
+RPTX,Repare Therapeutics Inc. Common Shares,$2.54,0.01,0.395%,109,Canada,2020.0,836165,Health Care,Biotechnology: Pharmaceutical Preparations
+ABOS,Acumen Pharmaceuticals Inc. Common Stock,$1.81,-0.05,-2.688%,109,United States,2021.0,284595,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SCLX,Scilex Holding Company Common Stock,$12.80,-0.49,-3.687%,108,United States,2021.0,52089,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GNLX,Genelux Corporation Common Stock,$2.80,0.08,2.941%,106,United States,2023.0,817576,Health Care,Biotechnology: Pharmaceutical Preparations
+ONCY,Oncolytics Biotech Inc. Common Shares,$0.9677,-0.0239,-2.41%,104,Canada,,693277,Health Care,Biotechnology: Pharmaceutical Preparations
+STRO,Sutro Biopharma Inc. Common Stock,$12.23,0.48,4.085%,104,United States,2018.0,204342,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+INKT,MiNK Therapeutics Inc. Common Stock,$12.40,0.0,0.00%,104,United States,2021.0,12055,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ELDN,Eledon Pharmaceuticals Inc. Common Stock,$1.73,0.0,0.00%,103,United States,2014.0,690112,Health Care,Biotechnology: Pharmaceutical Preparations
+SAVA,Cassava Sciences Inc. Common Stock,$2.10,-0.04,-1.869%,101,United States,,552471,Health Care,Biotechnology: Pharmaceutical Preparations
+COYA,Coya Therapeutics Inc. Common Stock,$4.85,-0.27,-5.273%,101,United States,2022.0,576701,Health Care,Biotechnology: Pharmaceutical Preparations
+BMEA,Biomea Fusion Inc. Common Stock,$1.42,0.08,5.97%,100,United States,2021.0,1460241,Health Care,Biotechnology: Pharmaceutical Preparations
+CRDL,Cardiol Therapeutics Inc. Class A Common Shares,$0.9973,-0.0027,-0.27%,99,Canada,,130008,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ATRA,Atara Biotherapeutics Inc. Common Stock,$13.67,-3.77,-21.617%,98,United States,2014.0,838118,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ANVS,Annovis Bio Inc. Common Stock,$3.67,-0.25,-6.378%,97,United States,2020.0,397502,Health Care,Biotechnology: Pharmaceutical Preparations
+XTNT,Xtant Medical Holdings Inc. Common Stock,$0.682,-0.0178,-2.544%,95,United States,,135580,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CSBR,Champions Oncology Inc. Common Stock,$6.78,-0.011,-0.162%,94,United States,,5246,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OKYO,OKYO Pharma Limited Ordinary Shares,$2.76,0.44,18.966%,93,Guernsey,2022.0,759102,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CTOR,Citius Oncology Inc. Common Stock,$1.09,-0.04,-3.54%,92,United States,2022.0,177820,Health Care,Biotechnology: Pharmaceutical Preparations
+INMB,INmune Bio Inc. Common stock,$1.49,-0.04,-2.614%,90,United States,2019.0,324465,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ETHZ,ETHZilla Corporation Common Stock,$4.78,-0.1,-2.049%,90,United States,2017.0,472336,Health Care,Biotechnology: Pharmaceutical Preparations
+KRRO,Korro Bio Inc. Common Stock,$9.50,0.35,3.825%,89,United States,2019.0,265128,Health Care,Biotechnology: Pharmaceutical Preparations
+DTIL,Precision BioSciences Inc. Common Stock,$3.92,-0.11,-2.73%,89,United States,2019.0,278553,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+DWTX,Dogwood Therapeutics Inc. Common Stock,$2.85,-0.3,-9.524%,88,United States,2020.0,140732,Health Care,Biotechnology: Pharmaceutical Preparations
+SPRB,Spruce Biosciences Inc. Common Stock,$79.99,6.29,8.535%,85,United States,2020.0,32168,Health Care,Biotechnology: Pharmaceutical Preparations
+CALC,CalciMedica Inc. Common Stock,$5.85,0.52,9.756%,84,United States,2023.0,101856,Health Care,Biotechnology: Pharmaceutical Preparations
+ATOS,Atossa Therapeutics Inc. Common Stock,$0.6451,-0.0079,-1.21%,83,United States,2012.0,891263,Health Care,Biotechnology: Pharmaceutical Preparations
+TENX,Tenax Therapeutics Inc. Common Stock,$13.30,0.18,1.372%,83,United States,,300503,Health Care,Biotechnology: Pharmaceutical Preparations
+LFVN,Lifevantage Corporation Common Stock (Delaware),$6.49,0.15,2.366%,82,United States,,113887,Health Care,Biotechnology: Pharmaceutical Preparations
+PLRX,Pliant Therapeutics Inc. Common Stock,$1.32,0.01,0.763%,81,United States,2020.0,1426636,Health Care,Biotechnology: Pharmaceutical Preparations
+EXOZ,eXoZymes Inc. Common Stock,$9.65,-0.03,-0.31%,80,United States,2024.0,3598,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IMUX,Immunic Inc. Common Stock,$0.6649,0.0022,0.332%,79,United States,2014.0,1733706,Health Care,Biotechnology: Pharmaceutical Preparations
+PTHS,Pelthos Therapeutics Inc. Common Stock,$25.925,-2.135,-7.609%,79,,2024.0,27792,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XBIT,XBiotech Inc. Common Stock,$2.56,-0.09,-3.396%,78,United States,2015.0,37196,Health Care,Biotechnology: Pharmaceutical Preparations
+KZIA,Kazia Therapeutics Limited American Depositary Shares,$6.82,0.04,0.59%,77,Australia,,239751,Health Care,Biotechnology: Pharmaceutical Preparations
+TVGN,Tevogen Bio Holdings Inc. Common Stock,$0.389,-0.001,-0.256%,77,United States,2022.0,2131045,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+COEP,Coeptis Therapeutics Holdings Inc. Common Stock,$14.30,-0.4,-2.721%,77,United States,2020.0,39180,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IMA,ImageneBio Inc. Common Stock,$6.94,0.09,1.314%,77,United States,2021.0,14196,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ACET,Adicet Bio Inc. Common Stock,$8.03,-0.06,-0.742%,76,United States,2018.0,149703,Health Care,Biotechnology: Pharmaceutical Preparations
+MREO,Mereo BioPharma Group plc American Depositary Shares,$0.4944,0.11,28.616%,76,United Kingdom,,44969990,Health Care,Biotechnology: Pharmaceutical Preparations
+MNOV,Medicinova Inc Common Stock,$1.52,0.1,7.042%,74,United States,,73674,Health Care,Biotechnology: Pharmaceutical Preparations
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,$4.95,0.12,2.484%,74,United States,2009.0,260708,Health Care,Biotechnology: Pharmaceutical Preparations
+ENTX,Entera Bio Ltd. Ordinary Shares,$1.60,-0.14,-8.046%,73,Israel,2018.0,258087,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ALXO,ALX Oncology Holdings Inc. Common Stock,$1.35,0.11,8.871%,73,United States,2020.0,277447,Health Care,Biotechnology: Pharmaceutical Preparations
+ADAG,Adagene Inc. American Depositary Shares,$1.53,-0.12,-7.273%,72,China,2021.0,60952,Health Care,Biotechnology: Pharmaceutical Preparations
+CRVO,CervoMed Inc. Common Stock,$7.735,-0.135,-1.715%,71,United States,,60791,Health Care,Biotechnology: Pharmaceutical Preparations
+EQ,Equillium Inc. Common Stock,$1.14,0.01,0.885%,69,United States,2018.0,357882,Health Care,Biotechnology: Pharmaceutical Preparations
+ATYR,aTyr Pharma Inc. Common Stock,$0.7127,-0.0124,-1.71%,69,United States,2015.0,1734593,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NXTC,NextCure Inc. Common Stock,$13.37,-0.22,-1.619%,69,United States,2019.0,50963,Health Care,Biotechnology: Pharmaceutical Preparations
+DOMH,Dominari Holdings Inc. Common Stock,$4.27,-0.19,-4.26%,68,United States,,204066,Health Care,Biotechnology: Pharmaceutical Preparations
+TCRX,TScan Therapeutics Inc. Common Stock,$1.21,0.03,2.542%,68,United States,2021.0,790009,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MGX,Metagenomi Inc. Common Stock,$1.79,0.02,1.13%,67,United States,2024.0,259857,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CLNN,Clene Inc. Common Stock,$6.395,0.425,7.119%,66,United States,,121974,Health Care,Biotechnology: Pharmaceutical Preparations
+RADX,Radiopharm Theranostics Limited American Depositary Shares,$5.15,0.36,7.516%,65,Australia,,134488,Health Care,Biotechnology: Pharmaceutical Preparations
+NRXP,NRX Pharmaceuticals Inc. Common Stock,$2.22,-0.11,-4.721%,65,United States,2017.0,539804,Health Care,Biotechnology: Pharmaceutical Preparations
+BYSI,BeyondSpring Inc. Ordinary Shares,$1.59,0.0,0.00%,64,United States,2017.0,28771,Health Care,Biotechnology: Pharmaceutical Preparations
+NSRX,Nasus Pharma Ltd. Ordinary Shares,$7.10,0.0,0.00%,63,,2025.0,4027,Health Care,Biotechnology: Pharmaceutical Preparations
+PASG,Passage Bio Inc. Common Stock,$19.85,1.52,8.292%,63,United States,2020.0,179433,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PMVP,PMV Pharmaceuticals Inc. Common Stock,$1.18,-0.01,-0.84%,62,United States,2020.0,221173,Health Care,Biotechnology: Pharmaceutical Preparations
+IFRX,InflaRx N.V. Common Stock,$1.04,-0.05,-4.587%,61,Germany,2017.0,700595,Health Care,Biotechnology: Pharmaceutical Preparations
+MIRA,MIRA Pharmaceuticals Inc. Common Stock,$1.48,-0.01,-0.671%,61,United States,2023.0,148090,Health Care,Biotechnology: Pharmaceutical Preparations
+CYPH,Cypherpunk Technologies Inc. Common Stock,$1.08,-0.08,-6.897%,61,United States,,2557949,Health Care,Biotechnology: Pharmaceutical Preparations
+IBIO,iBio Inc. Common Stock,$2.70,0.35,14.894%,60,United States,,12721983,Health Care,Biotechnology: Pharmaceutical Preparations
+MAIA,MAIA Biotechnology Inc. Common Stock,$1.63,-0.03,-1.807%,60,,2022.0,418572,Health Care,Biotechnology: Pharmaceutical Preparations
+ANL,Adlai Nortye Ltd. American Depositary Shares,$1.60,0.13,8.844%,59,Cayman Islands,2023.0,88128,Health Care,Biotechnology: Pharmaceutical Preparations
+AIXC,AIxCrypto Holdings Inc. Common Stock,$2.56,0.0,0.00%,59,United States,2015.0,52955,Health Care,Biotechnology: Pharmaceutical Preparations
+ICCC,ImmuCell Corporation Common Stock,$6.495,-0.075,-1.142%,58,United States,1987.0,21729,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+ASRT,Assertio Holdings Inc. Common Stock,$9.19,-0.12,-1.289%,58,United States,,85553,Health Care,Biotechnology: Pharmaceutical Preparations
+ACRV,Acrivon Therapeutics Inc. Common Stock,$1.75,-0.18,-9.326%,55,United States,2022.0,4460796,Health Care,Biotechnology: Pharmaceutical Preparations
+ALGS,Aligos Therapeutics Inc. Common Stock,$9.00,-1.33,-12.875%,55,United States,2020.0,88607,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+INCR,Intercure Ltd. Ordinary Shares,$1.02,0.0599,6.239%,55,Israel,,57551,Health Care,Biotechnology: Pharmaceutical Preparations
+ZYBT,Zhengye Biotechnology Holding Limited Ordinary Shares,$1.15,0.01,0.877%,54,China,2025.0,32698,Health Care,Biotechnology: Pharmaceutical Preparations
+LITS,Lite Strategy Inc. Common Stock,$1.47,-0.02,-1.342%,54,United States,2003.0,309963,Health Care,Biotechnology: Pharmaceutical Preparations
+ATHE,Alterity Therapeutics Limited American Depositary Shares,$3.52,0.19,5.706%,54,Australia,,16436,Health Care,Biotechnology: Pharmaceutical Preparations
+OSTX,OS Therapies Incorporated Common Stock,$1.55,0.01,0.649%,54,,2024.0,881853,Health Care,Biotechnology: Pharmaceutical Preparations
+IBO,Impact BioMedical Inc. Common Stock,$0.505,-0.001,-0.198%,52,,2024.0,55161,Health Care,Biotechnology: Pharmaceutical Preparations
+PDSB,PDS Biotechnology Corporation Common Stock,$1.07,0.0767,7.722%,52,United States,2015.0,2846593,Health Care,Biotechnology: Pharmaceutical Preparations
+ABVC,ABVC BioPharma Inc. Common Stock,$2.18,-0.07,-3.111%,52,United States,,65353,Health Care,Biotechnology: Pharmaceutical Preparations
+GRCE,Grace Therapeutics Inc. Common Stock,$3.69,-0.11,-2.895%,51,Canada,,212043,Health Care,Biotechnology: Pharmaceutical Preparations
+TLPH,Talphera Inc. Common Stock,$1.06,-0.03,-2.752%,49,United States,2011.0,399918,Health Care,Biotechnology: Pharmaceutical Preparations
+TIL,Instil Bio Inc. Common Stock,$7.13,-0.26,-3.518%,48,United States,2021.0,263887,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PYPD,PolyPid Ltd. Ordinary Shares,$4.64,-0.01,-0.215%,47,Israel,2020.0,35903,Health Care,Biotechnology: Pharmaceutical Preparations
+TELO,Telomir Pharmaceuticals Inc. Common Stock,$1.36,-0.06,-4.225%,46,United States,2024.0,239483,Health Care,Biotechnology: Pharmaceutical Preparations
+CVM,Cel-Sci Corporation Common Stock,$5.48,-0.38,-6.485%,46,United States,1997.0,58410,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ANEB,Anebulo Pharmaceuticals Inc. Common Stock,$1.14,-0.05,-4.202%,46,United States,2021.0,41509,Health Care,Biotechnology: Pharmaceutical Preparations
+HURA,TuHURA Biosciences Inc. Common Stock,$0.7537,-0.0008,-0.106%,45,United States,,349436,Health Care,Biotechnology: Pharmaceutical Preparations
+KZR,Kezar Life Sciences Inc. Common Stock,$6.20,-0.3,-4.615%,45,United States,2018.0,115187,Health Care,Biotechnology: Pharmaceutical Preparations
+ESLA,Estrella Immunopharma Inc. Common Stock,$1.20,-0.22,-15.493%,45,United States,2021.0,184615,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+LPCN,Lipocine Inc. Common Stock,$8.01,0.48,6.375%,44,United States,,78932,Health Care,Biotechnology: Pharmaceutical Preparations
+QTTB,Q32 Bio Inc. Common Stock,$3.60,0.02,0.559%,44,United States,2018.0,145718,Health Care,Biotechnology: Pharmaceutical Preparations
+BTAI,BioXcel Therapeutics Inc. Common Stock,$2.01,0.01,0.50%,43,United States,2018.0,505206,Health Care,Biotechnology: Pharmaceutical Preparations
+ATNM,Actinium Pharmaceuticals Inc. (Delaware) Common Stock,$1.39,-0.04,-2.797%,43,United States,,61431,Health Care,Biotechnology: Pharmaceutical Preparations
+JSPR,Jasper Therapeutics Inc. Common Stock,$1.51,-0.15,-9.036%,42,United States,2020.0,2578821,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+OKUR,OnKure Therapeutics Inc. Class A Common Stock,$3.14,0.28,9.79%,42,United States,2021.0,267005,Health Care,Biotechnology: Pharmaceutical Preparations
+TVRD,Tvardi Therapeutics Inc. Common Stock,$4.55,0.32,7.565%,42,United States,2014.0,301752,Health Care,Biotechnology: Pharmaceutical Preparations
+EVAX,Evaxion A/S American Depositary Share,$5.08,-0.03,-0.587%,42,Denmark,2021.0,31582,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RNXT,RenovoRx Inc. Common Stock,$1.12,-0.03,-2.609%,41,United States,2021.0,898068,Health Care,Biotechnology: Pharmaceutical Preparations
+VNRX,VolitionRX Limited Common Stock,$0.333,-0.0218,-6.144%,40,Singapore,2015.0,2200607,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+IOBT,IO Biotech Inc. Common Stock,$0.5624,0.0014,0.25%,40,Denmark,2021.0,531795,Health Care,Biotechnology: Pharmaceutical Preparations
+LTRN,Lantern Pharma Inc. Common Stock,$3.49,0.1,2.95%,39,United States,2020.0,52950,Health Care,Biotechnology: Pharmaceutical Preparations
+RVPH,Reviva Pharmaceuticals Holdings Inc. Common Stock ,$0.34,-0.026,-7.104%,39,United States,2020.0,4696875,Health Care,Biotechnology: Pharmaceutical Preparations
+VERU,Veru Inc. Common Stock,$2.39,0.08,3.463%,38,United States,,104494,Health Care,Biotechnology: Pharmaceutical Preparations
+KYNB,Kyntra Bio Inc. Common Stock,$9.22,-0.28,-2.947%,37,United States,2014.0,18942,Health Care,Biotechnology: Pharmaceutical Preparations
+XCUR,Exicure Inc. Common Stock,$5.84,-0.04,-0.68%,37,United States,,23687,Health Care,Biotechnology: Pharmaceutical Preparations
+OTLK,Outlook Therapeutics Inc. Common Stock,$0.59,-0.0143,-2.366%,37,United States,2016.0,4453041,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CELU,Celularity Inc. Class A Common Stock,$1.30,0.04,3.175%,37,United States,2019.0,23343,Health Care,Biotechnology: Pharmaceutical Preparations
+RMTI,Rockwell Medical Inc. Common Stock,$0.9375,-0.0402,-4.112%,36,United States,1998.0,158096,Health Care,Biotechnology: Pharmaceutical Preparations
+JUNS,Jupiter Neurosciences Inc. Common Stock,$1.06,0.03,2.913%,36,United States,2024.0,86825,Health Care,Biotechnology: Pharmaceutical Preparations
+TAOX,Tao Synergies Inc. Common Stock,$5.06,-0.28,-5.243%,36,United States,,116199,Health Care,Biotechnology: Pharmaceutical Preparations
+GBIO,Generation Bio Co. Common Stock,$5.48,-0.03,-0.544%,36,United States,2020.0,60572,Health Care,Biotechnology: Pharmaceutical Preparations
+XLO,Xilio Therapeutics Inc. Common Stock,$0.68,-0.0435,-6.012%,35,United States,2021.0,562388,Health Care,Biotechnology: Pharmaceutical Preparations
+ANTX,AN2 Therapeutics Inc. Common Stock,$1.30,-0.02,-1.515%,35,United States,2022.0,83040,Health Care,Biotechnology: Pharmaceutical Preparations
+DYAI,Dyadic International Inc. Common Stock,$0.95,-0.0182,-1.88%,34,United States,,39688,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RGNT,Regentis Biomaterials Ltd. Ordinary Shares,$6.62,-0.29,-4.197%,34,,2025.0,5619,Health Care,Biotechnology: Pharmaceutical Preparations
+GNTA,Genenta Science S.p.A. American Depositary Shares,$1.42,-0.02,-1.389%,33,Italy,2021.0,76879,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MRKR,Marker Therapeutics Inc. Common Stock,$2.00,-0.07,-3.382%,33,United States,,560719,Health Care,Biotechnology: Pharmaceutical Preparations
+GLTO,Galecto Inc. Common Stock,$20.50,0.13,0.638%,32,Denmark,2020.0,13598,Health Care,Biotechnology: Pharmaceutical Preparations
+CUE,Cue Biopharma Inc. Common Stock,$0.3605,-0.0324,-8.246%,32,United States,2018.0,877731,Health Care,Biotechnology: Pharmaceutical Preparations
+BRNS,Barinthus Biotherapeutics plc American Depositary Shares,$0.7595,0.0016,0.211%,31,United Kingdom,2021.0,16686,Health Care,Biotechnology: Pharmaceutical Preparations
+LIXT,Lixte Biotechnology Holdings Inc. Common Stock,$3.65,-0.1,-2.667%,31,United States,,75580,Health Care,Biotechnology: Pharmaceutical Preparations
+CING,Cingulate Inc. Common Stock,$4.63,-0.45,-8.858%,31,United States,2021.0,434464,Health Care,Biotechnology: Pharmaceutical Preparations
+NRSN,NeuroSense Therapeutics Ltd. Ordinary Shares,$1.07,0.132,14.072%,31,Israel,2021.0,444773,Health Care,Biotechnology: Pharmaceutical Preparations
+LNAI,Lunai Bioworks Inc. Common Stock,$0.96,0.0498,5.471%,31,United States,,151099,Health Care,Biotechnology: Pharmaceutical Preparations
+SKYE,Skye Bioscience Inc. Common Stock,$0.98,-0.07,-6.667%,31,United States,,340462,Health Care,Biotechnology: Pharmaceutical Preparations
+ELUT,Elutia Inc. Class A Common Stock,$0.723,0.0325,4.707%,30,United States,2020.0,796457,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RNTX,Rein Therapeutics Inc. Common Stock,$1.17,-0.05,-4.098%,30,United States,2017.0,146764,Health Care,Biotechnology: Pharmaceutical Preparations
+BOLD,Boundless Bio Inc. Common Stock,$1.31,0.0,0.00%,29,United States,2024.0,94359,Health Care,Biotechnology: Pharmaceutical Preparations
+ELAB,PMGC Holdings Inc. Common Stock,$5.25,-0.32,-5.745%,29,United States,2023.0,508417,Health Care,Biotechnology: Pharmaceutical Preparations
+RLYB,Rallybio Corporation Common Stock,$0.7101,-0.0279,-3.78%,29,United States,2021.0,45192,Health Care,Biotechnology: Pharmaceutical Preparations
+SNTI,Senti Biosciences Inc. Common Stock,$1.11,0.03,2.778%,29,United States,2021.0,267346,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+HOWL,Werewolf Therapeutics Inc. Common Stock,$0.6035,-0.0268,-4.252%,29,United States,2021.0,453056,Health Care,Biotechnology: Pharmaceutical Preparations
+HUMAW,Humacyte Inc. Warrant,$0.1375,-0.0124,-8.272%,28,United States,2020.0,20795,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IGC,IGC Pharma Inc. Common Stock,$0.3003,-0.0047,-1.541%,28,United States,,226879,Health Care,Biotechnology: Pharmaceutical Preparations
+PLUR,Pluri Inc. Common Stock,$3.05,0.04,1.329%,28,Israel,,4676,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+DARE,Dare Bioscience Inc. Common Stock,$1.98,-0.09,-4.348%,28,United States,2014.0,26617,Health Care,Biotechnology: Pharmaceutical Preparations
+SCYX,SCYNEXIS Inc. Common Stock,$0.6725,0.0069,1.037%,28,United States,2014.0,282730,Health Care,Biotechnology: Pharmaceutical Preparations
+SER,Serina Therapeutics Inc. Common Stock,$2.54,-0.08,-3.053%,27,,2018.0,66709,Health Care,Biotechnology: Pharmaceutical Preparations
+VTGN,Vistagen Therapeutics Inc. Common Stock,$0.6601,-0.0437,-6.209%,26,United States,,1711964,Health Care,Biotechnology: Pharmaceutical Preparations
+PTN,Palatin Technologies Inc. Common Stock,$15.51,-1.505,-8.845%,26,United States,,33512,Health Care,Biotechnology: Pharmaceutical Preparations
+QNTM,Quantum Biopharma Ltd. Class B Subordinate Voting Shares,$6.93,-0.33,-4.545%,26,Canada,,39904,Health Care,Biotechnology: Pharmaceutical Preparations
+AYTU,Aytu BioPharma Inc.  Common Stock,$2.64,-0.02,-0.752%,26,United States,,98650,Health Care,Biotechnology: Pharmaceutical Preparations
+ATHA,Athira Pharma Inc. Common Stock,$6.75,-0.44,-6.12%,26,United States,2020.0,69689,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TXMD,TherapeuticsMD Inc. Common Stock,$2.16,0.1,4.854%,25,United States,,127024,Health Care,Biotechnology: Pharmaceutical Preparations
+KLTO,Klotho Neurosciences Inc. Common Stock,$0.3381,-0.0043,-1.256%,24,United States,2022.0,320127,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NNVC,NanoViricides Inc. Common Stock,$1.12,-0.09,-7.438%,24,United States,,418156,Health Care,Biotechnology: Pharmaceutical Preparations
+INTS,Intensity Therapeutics Inc. Common stock,$0.4155,-0.0186,-4.285%,24,United States,2023.0,678627,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+APLM,Apollomics Inc. Class A Ordinary Shares,$21.97,-0.55,-2.442%,24,United States,,22869,Health Care,Biotechnology: Pharmaceutical Preparations
+FBLG,FibroBiologics Inc. Common Stock,$0.338,0.008,2.424%,22,United States,,888713,Health Care,Biotechnology: Pharmaceutical Preparations
+NEUP,Neuphoria Therapeutics Inc. Common Stock,$4.19,0.12,2.948%,22,United States,2021.0,63844,Health Care,Biotechnology: Pharmaceutical Preparations
+KTTA,Pasithea Therapeutics Corp. Common Stock,$0.9313,0.0103,1.118%,21,United States,2021.0,116258,Health Care,Biotechnology: Pharmaceutical Preparations
+BCAB,BioAtla Inc. Common Stock,$0.3602,-0.0404,-10.085%,21,United States,2020.0,1771003,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+APUS,Apimeds Pharmaceuticals US Inc. Common Stock,$1.66,0.02,1.22%,20,,2025.0,6876,Health Care,Biotechnology: Pharmaceutical Preparations
+PLRZ,Polyrizon Ltd. Ordinary Shares,$12.79,-0.62,-4.623%,20,Israel,2024.0,42987,Health Care,Biotechnology: Pharmaceutical Preparations
+MTVA,MetaVia Inc. Common Stock,$8.155,-0.228,-2.72%,19,United States,2016.0,10484,Health Care,Biotechnology: Pharmaceutical Preparations
+QCLS,Q/C Technologies Inc. Common Stock,$4.57,-0.13,-2.766%,19,United States,2014.0,299449,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+CVKD,Cadrenal Therapeutics Inc. Common Stock,$8.17,0.29,3.68%,19,United States,2023.0,72751,Health Care,Biotechnology: Pharmaceutical Preparations
+ALLR,Allarity Therapeutics Inc. Common Stock,$1.17,-0.02,-1.681%,18,United States,,71826,Health Care,Biotechnology: Pharmaceutical Preparations
+VYNE,VYNE Therapeutics Inc. Common Stock,$0.5697,0.0006,0.105%,18,United States,2018.0,404938,Health Care,Biotechnology: Pharmaceutical Preparations
+CTXR,Citius Pharmaceuticals Inc. Common Stock,$0.8877,-0.0123,-1.367%,18,United States,,279373,Health Care,Biotechnology: Pharmaceutical Preparations
+KAPA,Kairos Pharma Ltd. Common Stock,$0.88,-0.09,-9.278%,18,,2024.0,148383,Health Care,Biotechnology: Pharmaceutical Preparations
+CASI,CASI Pharmaceuticals Inc. Ordinary Shares,$1.10,0.035,3.286%,17,China,,116607,Health Care,Biotechnology: Pharmaceutical Preparations
+ITRM,Iterum Therapeutics plc Ordinary Share,$0.328,-0.0154,-4.485%,17,Ireland,2018.0,385193,Health Care,Biotechnology: Pharmaceutical Preparations
+SXTC,China SXT Pharmaceuticals Inc. Ordinary Shares,$0.151,-1.099,-87.92%,17,China,2019.0,108641063,Health Care,Biotechnology: Pharmaceutical Preparations
+PMN,ProMIS Neurosciences Inc. Common Shares (ON),$8.13,-0.35,-4.127%,17,Canada,,4893,Health Care,Biotechnology: Pharmaceutical Preparations
+HOTH,Hoth Therapeutics Inc. Common Stock,$1.08,-0.01,-0.917%,16,United States,2019.0,79237,Health Care,Biotechnology: Pharmaceutical Preparations
+LEXX,Lexaria Bioscience Corp. Common Stock,$0.746,0.051,7.338%,16,Canada,,241216,Health Care,Biotechnology: Pharmaceutical Preparations
+GDTC,CytoMed Therapeutics Limited Ordinary Shares,$1.32,0.01,0.763%,15,Singapore,2023.0,3083,Health Care,Biotechnology: Pharmaceutical Preparations
+COCP,Cocrystal Pharma Inc. Common Stock,$1.14,0.04,3.636%,15,United States,,151929,Health Care,Biotechnology: Pharmaceutical Preparations
+GRDX,GridAI Technologies Corp. Common Stock,$4.67,0.15,3.319%,15,United States,2016.0,148974,Health Care,Biotechnology: Pharmaceutical Preparations
+APLT,Applied Therapeutics Inc. Common Stock,$0.1006,0.0004,0.399%,14,United States,2019.0,5178102,Health Care,Biotechnology: Pharmaceutical Preparations
+SNSE,Sensei Biotherapeutics Inc. Common Stock,$11.615,0.555,5.018%,14,United States,2021.0,32461,Health Care,Biotechnology: Pharmaceutical Preparations
+KALA,KALA BIO Inc. Common Stock,$0.6315,-0.0175,-2.696%,14,United States,2017.0,1427912,Health Care,Biotechnology: Pharmaceutical Preparations
+TPST,Tempest Therapeutics Inc. Common Stock,$2.89,0.01,0.347%,14,United States,,36132,Health Care,Biotechnology: Pharmaceutical Preparations
+BCDA,BioCardia Inc. Common Stock,$1.405,0.085,6.439%,14,United States,,117605,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ASBP,Aspire Biopharma Holdings Inc. Common Stock,$0.104,0.0007,0.678%,14,United States,2022.0,23932281,Health Care,Biotechnology: Pharmaceutical Preparations
+TRIB,Trinity Biotech plc American Depositary Shares,$0.7338,-0.0084,-1.132%,13,Ireland,1992.0,297303,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+LGVN,Longeveron Inc. Class A Common Stock,$0.6233,-0.0057,-0.906%,13,United States,2021.0,240522,Health Care,Biotechnology: Pharmaceutical Preparations
+SYBX,Synlogic Inc. Common Stock,$1.14,-0.08,-6.557%,13,United States,2015.0,24013,Health Care,Biotechnology: Pharmaceutical Preparations
+BCTX,BriaCell Therapeutics Corp. Common Shares,$7.25,-0.03,-0.412%,13,Canada,,47316,Health Care,Biotechnology: Pharmaceutical Preparations
+SNGX,Soligenix Inc. Common Stock,$1.35,-0.09,-6.25%,13,United States,,142657,Health Care,Biotechnology: Pharmaceutical Preparations
+CLRB,Cellectar Biosciences Inc.  Common Stock,$3.08,-0.23,-6.949%,13,United States,,99018,Health Care,Biotechnology: Pharmaceutical Preparations
+AEON,AEON Biopharma Inc. Class A Common Stock,$1.08,-0.01,-0.917%,13,United States,,87489,Health Care,Biotechnology: Pharmaceutical Preparations
+AKTX,Akari Therapeutics plc ADS,$0.2817,-0.0007,-0.248%,12,United Kingdom,,453273,Health Care,Biotechnology: Pharmaceutical Preparations
+ADXN,Addex Therapeutics Ltd American Depositary Shares,$7.80,0.0,0.00%,12,Switzerland,,1257,Health Care,Biotechnology: Pharmaceutical Preparations
+BFRG,Bullfrog AI Holdings Inc. Common Stock,$0.8052,-0.0256,-3.081%,12,United States,2023.0,376190,Health Care,Biotechnology: Pharmaceutical Preparations
+PHIO,Phio Pharmaceuticals Corp. Common Stock,$1.16,-0.03,-2.521%,12,United States,,137728,Health Care,Biotechnology: Pharmaceutical Preparations
+EDSA,Edesa Biotech Inc. Common Shares,$1.50,-0.01,-0.662%,12,United States,,12045,Health Care,Biotechnology: Pharmaceutical Preparations
+IMNN,Imunon Inc. Common Stock,$3.69,-0.17,-4.404%,11,United States,,43444,Health Care,Biotechnology: Pharmaceutical Preparations
+BOLT,Bolt Biotherapeutics Inc. Common Stock,$5.83,0.02,0.344%,11,United States,2021.0,9414,Health Care,Biotechnology: Pharmaceutical Preparations
+BLRX,BioLineRx Ltd. American Depositary Shares,$2.92,-0.06,-2.013%,10,Israel,,5977,Health Care,Biotechnology: Pharmaceutical Preparations
+INAB,IN8bio Inc. Common Stock,$2.35,-0.05,-2.083%,10,United States,2021.0,188635,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CRIS,Curis Inc. Common Stock,$0.8268,-0.0232,-2.729%,10,United States,,703917,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+MBRX,Moleculin Biotech Inc. Common Stock,$3.98,-0.13,-3.163%,10,United States,2016.0,116272,Health Care,Biotechnology: Pharmaceutical Preparations
+MYNZ,Mainz Biomed N.V. Ordinary Shares,$1.18,0.005,0.426%,10,Germany,2021.0,543209,Health Care,Biotechnology: Pharmaceutical Preparations
+CURX,Curanex Pharmaceuticals Inc Common Stock,$0.375,0.0047,1.269%,10,United States,2025.0,68690,Health Care,Biotechnology: Pharmaceutical Preparations
+ERNA,Ernexa Therapeutics Inc. Common Stock,$1.31,-0.08,-5.755%,10,United States,,40494,Health Care,Biotechnology: Pharmaceutical Preparations
+ABP,Abpro Holdings Inc Common Stock,$4.04,-0.02,-0.493%,10,United States,2022.0,7934,Health Care,Biotechnology: Pharmaceutical Preparations
+TRAW,Traws Pharma Inc. Common Stock,$1.34,-0.07,-4.965%,10,United States,2013.0,24268,Health Care,Biotechnology: Pharmaceutical Preparations
+APVO,Aptevo Therapeutics Inc. Common Stock,$9.66,0.46,5.00%,9,United States,,6272227,Health Care,Biotechnology: Pharmaceutical Preparations
+CUPR,Cuprina Holdings (Cayman) Limited Class A Ordinary Shares,$0.4711,0.0018,0.384%,9,Singapore,2025.0,66575,Health Care,Biotechnology: Pharmaceutical Preparations
+NRSNW,NeuroSense Therapeutics Ltd. Warrant,$0.31,0.0,0.00%,9,Israel,2021.0,58,Health Care,Biotechnology: Pharmaceutical Preparations
+TVGNW,Tevogen Bio Holdings Inc. Warrant,$0.0479,0.0032,7.159%,9,United States,2022.0,459678,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NCEL,NewcelX Ltd. Ordinary Shares,$2.19,-0.02,-0.905%,9,Switzerland,2021.0,48942,Health Care,Biotechnology: Pharmaceutical Preparations
+BIVI,BioVie Inc. Class A Common Stock,$1.27,-0.03,-2.308%,9,United States,,42376,Health Care,Biotechnology: Pharmaceutical Preparations
+BFRI,Biofrontera Inc. Common Stock,$0.8245,0.0016,0.194%,9,United States,2021.0,41134,Health Care,Biotechnology: Pharmaceutical Preparations
+ALZN,Alzamend Neuro Inc. Common Stock,$2.39,0.05,2.137%,9,United States,2021.0,83083,Health Care,Biotechnology: Pharmaceutical Preparations
+CMMB,Chemomab Therapeutics Ltd. American Depositary Share,$1.79,-0.01,-0.556%,9,Israel,2019.0,59889,Health Care,Biotechnology: Pharmaceutical Preparations
+AIMD,Ainos Inc. Common Stock,$1.86,0.07,3.911%,8,United States,,8323,Health Care,Biotechnology: Pharmaceutical Preparations
+PMCB,PharmaCyte  Biotech Inc. Common Stock,$0.8815,-0.0394,-4.278%,8,United States,,203190,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PULM,Pulmatrix Inc. Common Stock,$2.36,0.01,0.426%,8,United States,2014.0,12637,Health Care,Biotechnology: Pharmaceutical Preparations
+CLDI,Calidi Biotherapeutics Inc. Common Stock,$1.15,-0.01,-0.862%,8,,2021.0,36400,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GELS,Gelteq Limited Ordinary Shares,$0.8313,-0.0327,-3.785%,8,Australia,2024.0,7307,Health Care,Biotechnology: Pharmaceutical Preparations
+APM,Aptorum Group Limited Class A Ordinary Shares,$1.05,-0.03,-2.778%,8,Hong Kong,2018.0,60717,Health Care,Biotechnology: Pharmaceutical Preparations
+MBIO,Mustang Bio Inc. Common Stock,$1.16,0.02,1.754%,8,United States,,52541,Health Care,Biotechnology: Pharmaceutical Preparations
+TCRT,Alaunos Therapeutics Inc. Common Stock,$3.15,-0.39,-11.017%,7,United States,,51169,Health Care,Biotechnology: Pharmaceutical Preparations
+KLTOW,Klotho Neurosciences Inc. Warrant,$0.10,0.0,0.00%,7,United States,2022.0,410,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TOVX,Theriva Biologics Inc. Common Stock,$0.2148,-0.0046,-2.097%,7,United States,,1321397,Health Care,Biotechnology: Pharmaceutical Preparations
+KPRX,Kiora Pharmaceuticals Inc.  Common Stock,$2.15,-0.035,-1.602%,7,United States,,97474,Health Care,Biotechnology: Pharmaceutical Preparations
+GTBP,GT Biopharma Inc. Common Stock,$0.677,-0.003,-0.441%,7,United States,,1589546,Health Care,Biotechnology: Pharmaceutical Preparations
+BMRA,Biomerica Inc. Common Stock,$2.73,-0.15,-5.208%,7,United States,,35924,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+RNAZ,TransCode Therapeutics Inc. Common Stock,$8.01,0.08,1.009%,7,United States,2021.0,23932,Health Care,Biotechnology: Pharmaceutical Preparations
+PCSA,Processa Pharmaceuticals Inc. Common Stock,$3.36,-0.1,-2.89%,7,United States,,130301,Health Care,Biotechnology: Pharmaceutical Preparations
+SBFM,Sunshine Biopharma Inc. Common Stock,$1.33,-0.04,-2.92%,6,Canada,,17076,Health Care,Biotechnology: Pharmaceutical Preparations
+ADIL,Adial Pharmaceuticals Inc Common Stock,$0.242,0.0085,3.64%,6,United States,2018.0,255074,Health Care,Biotechnology: Pharmaceutical Preparations
+RDHL,Redhill Biopharma Ltd. American Depositary Shares,$1.27,-0.07,-5.224%,6,Israel,,64915,Health Care,Biotechnology: Pharmaceutical Preparations
+APRE,Aprea Therapeutics Inc. Common stock,$0.9452,0.0051,0.542%,6,United States,2019.0,87437,Health Care,Biotechnology: Pharmaceutical Preparations
+ACXP,Acurx Pharmaceuticals Inc. Common Stock,$2.93,0.01,0.342%,6,United States,2021.0,25180,Health Care,Biotechnology: Pharmaceutical Preparations
+CYCN,Cyclerion Therapeutics Inc. Common Stock,$1.65,-0.28,-14.508%,6,United States,,501598,Health Care,Biotechnology: Pharmaceutical Preparations
+CPHI,China Pharma Holdings Inc. Common Stock,$1.31,-0.045,-3.321%,6,China,,28719,Health Care,Biotechnology: Pharmaceutical Preparations
+NCNA,NuCana plc American Depositary Share,$3.37,-0.23,-6.389%,6,United Kingdom,2017.0,65407,Health Care,Biotechnology: Pharmaceutical Preparations
+SNOA,Sonoma Pharmaceuticals Inc. Common Stock,$3.65,-0.13,-3.439%,6,United States,2007.0,38646,Health Care,Biotechnology: Pharmaceutical Preparations
+SLXN,Silexion Therapeutics Corp Ordinary Shares,$2.12,0.02,0.952%,6,Israel,,22344,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PPCB,Propanc Biopharma Inc. Common Stock,$0.4622,-0.0182,-3.789%,6,Australia,,83086,Health Care,Biotechnology: Pharmaceutical Preparations
+IMRN,Immuron Limited American Depositary Shares,$0.8523,0.0323,3.939%,5,Australia,2017.0,19698,Health Care,Biotechnology: Pharmaceutical Preparations
+GNPX,Genprex Inc. Common Stock,$2.20,0.2,10.00%,5,United States,2018.0,3257377,Health Care,Biotechnology: Pharmaceutical Preparations
+INDP,Indaptus Therapeutics Inc. Common Stock,$3.13,0.13,4.333%,5,United States,,215983,Health Care,Biotechnology: Pharmaceutical Preparations
+CAPS,Capstone Holding Corp. Common Stock,$0.6698,-0.0226,-3.264%,5,United States,,230714,Health Care,Biotechnology: Pharmaceutical Preparations
+REVB,Revelation Biosciences Inc. Common Stock,$0.90,-0.0002,-0.022%,5,United States,2020.0,113364,Health Care,Biotechnology: Pharmaceutical Preparations
+VIVS,VivoSim Labs Inc. Common Stock,$1.92,-0.16,-7.692%,5,United States,,54578,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XBIO,Xenetic Biosciences Inc. Common Stock,$2.206,0.021,0.961%,5,United States,,7787,Health Care,Biotechnology: Pharmaceutical Preparations
+ALBT,Avalon GloboCare Corp. Common Stock,$1.27,0.02,1.60%,5,United States,,39869,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+FLGC,Flora Growth Corp. Common Stock,$7.285,0.225,3.187%,5,Canada,2021.0,4119,Health Care,Biotechnology: Pharmaceutical Preparations
+ENVB,Enveric Biosciences Inc. Common Stock,$3.96,-0.12,-2.941%,4,United States,,22335,Health Care,Biotechnology: Pharmaceutical Preparations
+GOVX,GeoVax Labs Inc. Common Stock,$0.1656,-0.0192,-10.39%,4,United States,,4656962,Health Care,Biotechnology: Pharmaceutical Preparations
+SPRC,SciSparc Ltd. Ordinary Shares,$1.46,-0.05,-3.311%,4,Israel,,91287,Health Care,Biotechnology: Pharmaceutical Preparations
+XRTX,XORTX Therapeutics Inc. Common Stock,$0.585,-0.005,-0.847%,4,Canada,,7340,Health Care,Biotechnology: Pharmaceutical Preparations
+DCOY,Decoy Therapeutics Inc. Common Stock,$0.8198,0.0498,6.468%,4,United States,2015.0,281789,Health Care,Biotechnology: Pharmaceutical Preparations
+MTNB,Matinas Biopharma Holdings Inc. Common Stock,$0.6437,-0.0819,-11.287%,4,United States,2017.0,24448,Health Care,Biotechnology: Pharmaceutical Preparations
+ASBPW,Aspire Biopharma Holdings Inc. Warrant,$0.03,0.0014,4.895%,4,United States,2022.0,123759,Health Care,Biotechnology: Pharmaceutical Preparations
+GLMD,Galmed Pharmaceuticals Ltd. Ordinary Shares,$0.833,-0.0169,-1.988%,4,Israel,2014.0,46431,Health Care,Biotechnology: Pharmaceutical Preparations
+CDIO,Cardio Diagnostics Holdings Inc. Common stock,$2.05,-0.35,-14.583%,3,United States,2022.0,440100,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+SHPH,Shuttle Pharmaceuticals Holdings Inc. Common Stock,$1.93,0.13,7.222%,3,United States,2022.0,4606722,Health Care,Biotechnology: Pharmaceutical Preparations
+AIM,AIM ImmunoTech Inc. Common Stock,$1.29,-0.0487,-3.638%,3,,,156056,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BFRGW,Bullfrog AI Holdings Inc. Warrants,$0.2415,-0.0681,-21.996%,3,United States,2023.0,11361,Health Care,Biotechnology: Pharmaceutical Preparations
+ENSC,Ensysce Biosciences Inc. Common Stock,$1.02,-0.04,-3.774%,3,United States,,96703,Health Care,Biotechnology: Pharmaceutical Preparations
+JAGX,Jaguar Health Inc. Common Stock,$1.05,-0.03,-2.778%,3,United States,2015.0,178619,Health Care,Biotechnology: Pharmaceutical Preparations
+HCWB,HCW Biologics Inc. Common Stock,$1.22,0.0,0.00%,3,United States,2021.0,41765,Health Care,Biotechnology: Pharmaceutical Preparations
+INM,InMed Pharmaceuticals Inc. Common Shares,$1.29,0.04,3.20%,3,Canada,,157834,Health Care,Biotechnology: Pharmaceutical Preparations
+OGEN,Oragenics Inc. Common Stock,$0.8311,-0.0189,-2.224%,3,United States,,47128,Health Care,Biotechnology: Pharmaceutical Preparations
+CNSP,CNS Pharmaceuticals Inc. Common Stock,$5.82,-0.12,-2.02%,3,United States,2019.0,16633,Health Care,Biotechnology: Pharmaceutical Preparations
+PHGE,BiomX Inc. COmmon Stock,$2.28,0.04,1.786%,3,,2019.0,60893,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CMND,Clearmind Medicine Inc. Common Shares,$2.35,-0.08,-3.292%,3,Canada,,41054,Health Care,Biotechnology: Pharmaceutical Preparations
+AZTR,Azitra Inc Common Stock,$0.29,-0.0139,-4.574%,3,,2023.0,462820,Health Care,Biotechnology: Pharmaceutical Preparations
+SXTP,60 Degrees Pharmaceuticals Inc. Common Stock,$0.5264,0.0139,2.712%,2,United States,2023.0,144098,Health Care,Biotechnology: Pharmaceutical Preparations
+ARTL,Artelo Biosciences Inc. Common Stock,$1.42,-0.18,-11.25%,2,United States,,101870,Health Care,Biotechnology: Pharmaceutical Preparations
+DRMA,Dermata Therapeutics Inc. Common Stock,$2.08,-0.06,-2.804%,2,United States,2021.0,59572,Health Care,Biotechnology: Pharmaceutical Preparations
+ONCO,Onconetix Inc. Common Stock,$1.72,0.0,0.00%,2,United States,2022.0,104549,Health Care,Biotechnology: Pharmaceutical Preparations
+RCKTW,Rocket Pharmaceuticals Inc. Warrant,$0.0234,-0.0009,-3.704%,2,United States,,32872,Health Care,Biotechnology: Pharmaceutical Preparations
+BTTC,Black Titan Corporation Ordinary Shares,$1.70,-0.03,-1.734%,2,Malaysia,,84656,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GRI,GRI Bio Inc. Common Stock,$0.225,-0.059,-20.775%,2,United States,2021.0,5027781,Health Care,Biotechnology: Pharmaceutical Preparations
+SCNI,Scinai Immunotherapeutics Ltd. American Depositary Shares,$0.762,-0.0433,-5.377%,2,Israel,2015.0,19440,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BIVIW,BioVie Inc. Warrant,$0.325,0.0,0.00%,2,United States,,105,Health Care,Biotechnology: Pharmaceutical Preparations
+CDT,CDT Equity Inc. Common Stock,$1.51,-0.02,-1.307%,2,United States,2022.0,19467,Health Care,Biotechnology: Pharmaceutical Preparations
+UPC,Universe Pharmaceuticals Inc. Ordinary Shares,$4.31,0.09,2.133%,2,China,2021.0,23180,Health Care,Biotechnology: Pharmaceutical Preparations
+VRAX,Virax Biolabs Group Limited Ordinary Shares,$0.362,-0.006,-1.63%,2,United Kingdom,2022.0,70795,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+BDRX,Biodexa Pharmaceuticals plc American Depositary Shs,$2.35,0.04,1.732%,1,United Kingdom,,122080,Health Care,Biotechnology: Pharmaceutical Preparations
+PBM,Psyence Biomedical Ltd. Common Shares,$0.80,0.0318,4.14%,1,Canada,,298806,Health Care,Biotechnology: Pharmaceutical Preparations
+XTLB,XTL Biopharmaceuticals Ltd. American Depositary Shares,$0.6736,-0.0174,-2.518%,1,Israel,,36109,Health Care,Biotechnology: Pharmaceutical Preparations
+PPBT,Purple Biotech Ltd. American Depositary Shares,$0.6912,-0.0182,-2.566%,1,Israel,2015.0,80047,Health Care,Biotechnology: Pharmaceutical Preparations
+SCLXW,Scilex Holding Company Warrant,$0.1798,-0.0002,-0.111%,1,United States,2021.0,2509,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PRFX,PainReform Ltd. Ordinary Shares,$0.85,0.0005,0.059%,1,Israel,2020.0,290205,Health Care,Biotechnology: Pharmaceutical Preparations
+SABSW,SAB Biotherapeutics Inc. Warrant,$0.0302,-0.0087,-22.365%,1,United States,2021.0,7368,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NRXPW,NRX Pharmaceuticals Inc. Warrant,$0.0582,-0.0018,-3.00%,1,United States,2017.0,18472,Health Care,Biotechnology: Pharmaceutical Preparations
+JSPRW,Japer Therapeutics Inc. Warrants,$0.07,-0.003,-4.11%,1,United States,2020.0,21994,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CINGW,Cingulate Inc. Warrants,$0.0659,-0.0231,-25.955%,0,United States,2021.0,100514,Health Care,Biotechnology: Pharmaceutical Preparations
+SBFMW,Sunshine Biopharma Inc. Warrant,$0.19,0.0,0.00%,0,Canada,,2,Health Care,Biotechnology: Pharmaceutical Preparations
+CELUW,Celularity Inc. Warrant,$0.02,0.0035,21.212%,0,United States,2019.0,1989,Health Care,Biotechnology: Pharmaceutical Preparations
+ADTX,Aditxt Inc. Common Stock,$0.79,-0.0459,-5.491%,0,United States,2020.0,296252,Health Care,Biotechnology: Pharmaceutical Preparations
+REVBW,Revelation Biosciences Inc. Warrant,$0.0081,0.0,0.00%,0,United States,2020.0,15250,Health Care,Biotechnology: Pharmaceutical Preparations
+IPEX,Inflection Point Acquisition Corp. V Class A Ordinary Shares,$10.28,0.01,0.097%,0,United States,2025.0,3245,Health Care,Biotechnology: Pharmaceutical Preparations
+BKHA,Black Hawk Acquisition Corporation Class A Ordinary Shares,$11.26,0.0,0.00%,0,United States,2024.0,24,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BFRIW,Biofrontera Inc. Warrants,$0.0613,0.0013,2.167%,0,United States,2021.0,103,Health Care,Biotechnology: Pharmaceutical Preparations
+BKHAR,Black Hawk Acquisition Corporation Rights,$1.37,0.0,0.00%,0,United States,2024.0,1,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CDIOW,Cardio Diagnostics Holdings Inc. Warrant,$0.0198,0.0003,1.538%,0,United States,2022.0,155166,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+AIMDW,Ainos Inc. Warrants,$0.1229,-0.0001,-0.081%,0,United States,,100,Health Care,Biotechnology: Pharmaceutical Preparations
+PBMWW,Psyence Biomedical Ltd. Warrant,$0.018,-0.0017,-8.629%,0,Canada,,2251,Health Care,Biotechnology: Pharmaceutical Preparations
+SLXNW,Silexion Therapeutics Corp Warrant,$0.038,-0.0016,-4.04%,0,Israel,,141997,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BCTXW,BriaCell Therapeutics Corp. Warrant,$0.0596,0.0097,19.439%,0,Canada,,35650,Health Care,Biotechnology: Pharmaceutical Preparations
+BCTXZ,BriaCell Therapeutics Corp. Warrant,$0.27,0.0081,3.093%,0,Canada,,5371,Health Care,Biotechnology: Pharmaceutical Preparations
+CDTTW,CDT Equity Inc. Warrant,$0.0074,-0.0001,-1.333%,0,United States,2022.0,39889,Health Care,Biotechnology: Pharmaceutical Preparations
+BLUWU,Blue Water Acquisition Corp. III Unit.,$10.67,0.0001,0.001%,0,United States,2025.0,2809,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SRZNW,Surrozen Inc. Warrant,$0.022,0.0,0.00%,0,United States,,3336,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+COEPW,Coeptis Therapeutics Holdings Inc. Warrants,$0.0133,0.001,8.13%,0,United States,2020.0,8788,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SXTPW,60 Degrees Pharmaceuticals Inc. Warrant,$0.0646,0.0001,0.155%,0,United States,2023.0,400,Health Care,Biotechnology: Pharmaceutical Preparations
+EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,$9.96,-0.05,-0.50%,0,United States,2025.0,5013,Health Care,Biotechnology: Pharmaceutical Preparations
+DRMAW,Dermata Therapeutics Inc. Warrant,$0.02,-0.0016,-7.407%,0,United States,2021.0,287,Health Care,Biotechnology: Pharmaceutical Preparations
+KTTAW,Pasithea Therapeutics Corp. Warrant,$0.0123,-0.0014,-10.219%,0,United States,2021.0,1522,Health Care,Biotechnology: Pharmaceutical Preparations
+ABPWW,Abpro Holdings Inc. Warrant,$0.014,0.0,0.00%,0,United States,2022.0,53800,Health Care,Biotechnology: Pharmaceutical Preparations
+LEXXW,Lexaria Bioscience Corp. Warrant,$0.0051,-0.0011,-17.742%,0,Canada,,966,Health Care,Biotechnology: Pharmaceutical Preparations
+APLMW,Apollomics Inc. Warrant,$0.0148,-0.0002,-1.333%,0,United States,,19941,Health Care,Biotechnology: Pharmaceutical Preparations
