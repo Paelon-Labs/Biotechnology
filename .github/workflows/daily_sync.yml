@@ -53,5 +53,15 @@ jobs:
         env:
           NASH_BIO_TOKEN: ${{ secrets.NASH_BIO_TOKEN }}
         run: |
-          git remote add mirror https://x-access-token:${NASH_BIO_TOKEN}@github.com/NASH-BIO/biotech-tickers.git
+          if [ -z "$NASH_BIO_TOKEN" ]; then
+            echo "ERROR: NASH_BIO_TOKEN is empty"
+            exit 1
+          fi
+          echo "Token length: ${#NASH_BIO_TOKEN}"
+          echo "Token prefix: ${NASH_BIO_TOKEN:0:7}..."
+          curl -sS -o /dev/null -w "API check status: %{http_code}\n" \
+            -H "Authorization: Bearer $NASH_BIO_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/NASH-BIO/biotech-tickers
+          git remote add mirror "https://x-access-token:${NASH_BIO_TOKEN}@github.com/NASH-BIO/biotech-tickers.git"
           git push mirror HEAD:main
