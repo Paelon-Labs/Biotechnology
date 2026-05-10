@@ -57,4 +57,4 @@ jobs:
           # that overrides URL credentials. Strip it so the mirror URL's token is used.
           git config --local --unset-all http.https://github.com/.extraheader || true
           git remote add mirror "https://x-access-token:${NASH_BIO_TOKEN}@github.com/NASH-BIO/biotech-tickers.git"
-          git push mirror HEAD:main
+          git push --force mirror HEAD:main
