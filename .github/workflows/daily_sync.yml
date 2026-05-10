@@ -37,12 +37,20 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "actions@github.com"
-          
+
+          # 'git add -A' tracks additions, modifications, AND deletions
           git add -A
-          
+
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Sync & Archive: Biotech Data $(date +'%Y-%m-%d')"
             git push
           fi
+
+      - name: Mirror to NASH-BIO/biotech-tickers
+        env:
+          NASH_BIO_TOKEN: ${{ secrets.NASH_BIO_TOKEN }}
+        run: |
+          git remote add mirror https://x-access-token:${NASH_BIO_TOKEN}@github.com/NASH-BIO/biotech-tickers.git
+          git push mirror HEAD:main
