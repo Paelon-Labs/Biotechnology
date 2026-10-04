@@ -1,0 +1,157 @@
+{
+  "ticker": "SION",
+  "processed": [
+    {
+      "source": "c.htm",
+      "date": "2026-08-06",
+      "title": "Sionna Therapeutics Reports Second Quarter 2026 Financial Results",
+      "chars": 5842,
+      "input": 2088,
+      "cached": 2085,
+      "output": 423,
+      "cost": 0.00023265000000000002
+    },
+    {
+      "source": "b.htm",
+      "date": "2026-08-10",
+      "title": "Sionna Therapeutics Reports Topline Data from Two Development Programs in Cystic Fibrosis and Provides Corporate Update",
+      "chars": 6059,
+      "input": 2475,
+      "cached": 0,
+      "output": 1023,
+      "cost": 0.000759
+    },
+    {
+      "source": "a.htm",
+      "date": "2026-09-14",
+      "title": "Sionna Therapeutics Announces Plans to Advance SION-451 + SION-2222 Dual Combination into Phase 2a Proof-of-Concept Trial",
+      "chars": 9118,
+      "input": 3109,
+      "cached": 0,
+      "output": 1836,
+      "cost": 0.0012289
+    }
+  ],
+  "catalysts": [
+    {
+      "id": "sion-719-topline-data-from-the-precision-cf-phase-2a-proof-of-concept-trial",
+      "program": "SION-719",
+      "indication": "cystic fibrosis",
+      "trial": "NCT07108153",
+      "event": "Topline data from the PreciSION CF Phase 2a proof-of-concept trial",
+      "event_type": "topline_data",
+      "status": "occurred",
+      "timing_text": "this summer",
+      "timing": {
+        "text": "this summer",
+        "kind": "season",
+        "year": 2026,
+        "value": "summer"
+      },
+      "window_start": "2026-06-01",
+      "window_end": "2026-08-31",
+      "first_seen": "2026-08-06",
+      "last_confirmed": "2026-08-06",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "source": "c.htm",
+          "quote": "Topline data from this trial are on track for this summer.",
+          "timing_text": "this summer",
+          "window_start": "2026-06-01",
+          "window_end": "2026-08-31",
+          "change": "new"
+        },
+        {
+          "date": "2026-08-10",
+          "source": "b.htm",
+          "quote": "WALTHAM, Mass., August 10th, 2026 (GLOBE NEWSWIRE) — Sionna Therapeutics, Inc. (Nasdaq: SION), a clinical-stage biopharmaceutical company on a mission to develop novel medicines for cystic fibrosis (CF), today reported topline data from two nucleotide binding domain 1 (NBD1) stabilizer programs, the PreciSION CF Phase 2a proof-of-concept (POC) trial of SION-719 when added to Trikafta® (elexacaftor/tezacaftor/ivacaftor) in CF participants, and the Phase 1 trial of SION-451-based proprietary dual combinations in healthy subjects.",
+          "timing_text": null,
+          "window_start": null,
+          "window_end": null,
+          "change": "occurred"
+        }
+      ],
+      "resolved_on": "2026-08-10"
+    },
+    {
+      "id": "sion-451-sion-2222-sion-109-topline-data-from-the-phase-1-dual-combination-trial",
+      "program": "SION-451 + SION-2222 + SION-109",
+      "indication": "cystic fibrosis",
+      "trial": "NCT07035990",
+      "event": "Topline data from the Phase 1 dual combination trial",
+      "event_type": "topline_data",
+      "status": "occurred",
+      "timing_text": "this summer",
+      "timing": {
+        "text": "this summer",
+        "kind": "season",
+        "year": 2026,
+        "value": "summer"
+      },
+      "window_start": "2026-06-01",
+      "window_end": "2026-08-31",
+      "first_seen": "2026-08-06",
+      "last_confirmed": "2026-08-06",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "source": "c.htm",
+          "quote": "Topline data from this trial are on track for this summer.",
+          "timing_text": "this summer",
+          "window_start": "2026-06-01",
+          "window_end": "2026-08-31",
+          "change": "new"
+        },
+        {
+          "date": "2026-08-10",
+          "source": "b.htm",
+          "quote": "WALTHAM, Mass., August 10th, 2026 (GLOBE NEWSWIRE) — Sionna Therapeutics, Inc. (Nasdaq: SION), a clinical-stage biopharmaceutical company on a mission to develop novel medicines for cystic fibrosis (CF), today reported topline data from two nucleotide binding domain 1 (NBD1) stabilizer programs, the PreciSION CF Phase 2a proof-of-concept (POC) trial of SION-719 when added to Trikafta® (elexacaftor/tezacaftor/ivacaftor) in CF participants, and the Phase 1 trial of SION-451-based proprietary dual combinations in healthy subjects.",
+          "timing_text": null,
+          "window_start": null,
+          "window_end": null,
+          "change": "occurred"
+        }
+      ],
+      "resolved_on": "2026-08-10"
+    },
+    {
+      "id": "sion-451-sion-2222-initiation-of-the-ascension-cf-phase-2a-proof-of-concept-trial",
+      "program": "SION-451 + SION-2222",
+      "indication": "Cystic fibrosis",
+      "trial": null,
+      "event": "Initiation of the AscenSION CF Phase 2a proof-of-concept trial",
+      "event_type": "trial_initiation",
+      "status": "upcoming",
+      "timing_text": "the first quarter of 2027",
+      "timing": {
+        "text": "the first quarter of 2027",
+        "kind": "quarter",
+        "year": 2027,
+        "value": "1"
+      },
+      "window_start": "2027-01-01",
+      "window_end": "2027-03-31",
+      "first_seen": "2026-09-14",
+      "last_confirmed": "2026-09-14",
+      "history": [
+        {
+          "date": "2026-09-14",
+          "source": "a.htm",
+          "quote": "The design will incorporate key learnings from PreciSION CF with respect to dosing adherence and sweat chloride variability, and the trial is expected to initiate in the first quarter of 2027.",
+          "timing_text": "the first quarter of 2027",
+          "window_start": "2027-01-01",
+          "window_end": "2027-03-31",
+          "change": "new"
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "calls": 3,
+    "input": 7672,
+    "cached": 2085,
+    "output": 3282,
+    "cost": 0.00222055
+  }
+}
