@@ -1,39 +1,52 @@
-name: Weekly Biotech Market Sync
+name: Daily Biotech Market Sync
+
+# Each trading day: pull the Nasdaq screener, upsert the biotech universe into
+# the opportunity Supabase table `biotech_market` (point in time), and commit
+# today's CSV. A previous month's CSV is archived to History/ as that month's
+# month-end snapshot (see Daily Markets/scraper.py).
 
 on:
   schedule:
-    # Runs every Friday at 22:00 UTC
-    - cron: '0 22 * * 5'
+    # 22:15 UTC weekdays = 6:15pm EDT / 5:15pm EST, after the close year-round.
+    # Holidays are skipped by the script (NYSE calendar).
+    - cron: '15 22 * * 1-5'
   workflow_dispatch:
-    # Allows you to run this manually from the Actions tab
+    inputs:
+      force:
+        description: 'Run even if today is not a trading day'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: biotech-sync
+  cancel-in-progress: false
+
 jobs:
-  scrape_and_process:
+  sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Install Dependencies
-        run: |
-          pip install playwright pandas
-          python -m playwright install --with-deps firefox
+        run: pip install requests exchange_calendars
 
-      - name: Run Scraper and Refine Data
+      - name: Pull screener, write Supabase + CSV
         working-directory: ./Daily Markets
-        run: python scraper.py
-
+        env:
+          OPPORTUNITY_SUPABASE_URL: ${{ secrets.OPPORTUNITY_SUPABASE_URL }}
+          OPPORTUNITY_SUPABASE_SERVICE_KEY: ${{ secrets.OPPORTUNITY_SUPABASE_SERVICE_KEY }}
+        run: python scraper.py ${{ inputs.force && '--force' || '' }}
 
       - name: Commit and Push Changes
         run: |
@@ -46,17 +59,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Sync & Archive: Biotech Data $(date +'%Y-%m-%d')"
+            git commit -m "Sync: Biotech Data $(TZ=America/New_York date +'%Y-%m-%d')"
             git pull --rebase origin main
             git push
           fi
-
-      - name: Mirror to NASH-BIO/biotech-tickers
-        env:
-          NASH_BIO_TOKEN: ${{ secrets.NASH_BIO_TOKEN }}
-        run: |
-          # actions/checkout injects a GITHUB_TOKEN auth header into local git config
-          # that overrides URL credentials. Strip it so the mirror URL's token is used.
-          git config --local --unset-all http.https://github.com/.extraheader || true
-          git remote add mirror "https://x-access-token:${NASH_BIO_TOKEN}@github.com/NASH-BIO/biotech-tickers.git"
-          git push --force mirror HEAD:main
